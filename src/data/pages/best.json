@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "slug": "ai-writing-tools",
+      "title": "Best AI Writing Tools (2026): Data-Driven Comparison",
+      "h1": "Best AI Writing Tools in 2026",
+      "metaDescription": "A data-driven comparison of AI writing tools with verified 2026 pricing and affiliate commission data: Jasper, Writesonic and Scalenut (checked 2026-08-07).",
+      "category": "AI writing tools",
+      "categorySlug": "ai-writing-tools",
+      "updatedAt": "2026-08-07",
+      "intro": "This page compares AI writing tools using verified, dated data only: official pricing pages fetched on 2026-08-07, commission terms from each vendor's official affiliate agreement, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": ["jasper", "writesonic", "scalenut"],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-07)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI writing tool in 2026?",
+          "answer": "On verified 2026 data, no single tool is best for everyone. Jasper (from $59/mo) and Writesonic (from $79/mo) are the two dedicated AI writing assistants in this dataset; Scalenut (from $59/mo) adds SEO content tooling. The right pick depends on your budget, workflow and plan needs; the comparison table on this page shows the verified differences."
+        },
+        {
+          "question": "How much do AI writing tools cost?",
+          "answer": "Verified on 2026-08-07: Jasper from $59/mo (annual billing, $69/mo monthly), Writesonic from $79/mo (Swipe Starter, annual billing), Scalenut from $59/mo (Starter, with a limited offer from $24/mo noted on the pricing page)."
+        },
+        {
+          "question": "Which AI writing tools pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-07: Jasper pays 25% recurring on Creator and Teams plans (Business excluded); Writesonic pays 20% recurring for 12 months; Scalenut pays 30-50% recurring for life."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" }
+      ],
+      "disclosure": true
+    }
+  ]
+}

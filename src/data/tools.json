@@ -1,0 +1,215 @@
+{
+  "jasper": {
+    "toolSlug": "jasper",
+    "toolName": "Jasper",
+    "priceTier": "paid",
+    "priceFromUsd": 59,
+    "pricePeriod": "mo",
+    "commissionPct": 25,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Teams and creators that want a dedicated AI writing assistant; Creator and Teams plans qualify for 25% recurring commissions",
+    "keyFeatures": [
+      "AI writing assistant",
+      "Plan tiers: Creator, Teams, Business (Pro priced from $59/mo annual, $69/mo monthly)",
+      "Affiliate program excludes Business plans"
+    ],
+    "pros": [
+      "25% recurring commission on Creator and Teams plans (paid per billing period)"
+    ],
+    "cons": [
+      "Business plans are excluded from the affiliate program",
+      "Commission window not stated in the official affiliate agreement (commonly cited 45-day cookie is unverified)"
+    ],
+    "verdict": "Jasper is a dedicated AI writing assistant from $59/mo (annual billing; $69 monthly). Its affiliate program pays 25% recurring on Creator and Teams plans, with Business excluded.",
+    "affiliateUrl": "https://www.jasper.ai/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "writesonic": {
+    "toolSlug": "writesonic",
+    "toolName": "Writesonic",
+    "priceTier": "paid",
+    "priceFromUsd": 79,
+    "pricePeriod": "mo",
+    "commissionPct": 20,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 12,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Content teams that want a broad plan range (Swipe Starter to Growth) and a defined 12-month recurring commission window",
+    "keyFeatures": [
+      "AI writing tool for content generation",
+      "Plan tiers: Swipe Starter ($79/mo), Basic ($199/mo), Growth ($399/mo) - annual billing",
+      "60-day affiliate cookie"
+    ],
+    "pros": [
+      "20% recurring commission for 12 months",
+      "60-day cookie gives a long attribution window"
+    ],
+    "cons": [
+      "Recurring commission ends after 12 months"
+    ],
+    "verdict": "Writesonic is an AI writing tool from $79/mo (annual billing). Its affiliate program pays 20% recurring for 12 months with a 60-day cookie.",
+    "affiliateUrl": "https://writesonic.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "scalenut": {
+    "toolSlug": "scalenut",
+    "toolName": "Scalenut",
+    "priceTier": "paid",
+    "priceFromUsd": 59,
+    "pricePeriod": "mo",
+    "commissionPct": 50,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "SEO-focused content teams that want a 30-50% lifetime recurring commission",
+    "keyFeatures": [
+      "AI SEO content platform",
+      "Plan tiers: Starter ($59/mo), Plus ($89/mo), Professional ($199/mo)",
+      "Limited-time starter pricing from $24/mo noted on the pricing page"
+    ],
+    "pros": [
+      "30-50% recurring commission for life - the longest window in this dataset"
+    ],
+    "cons": [
+      "Commission rate is stated as a 30-50% range on the official page"
+    ],
+    "verdict": "Scalenut is an AI SEO content tool from $59/mo (Starter; limited offer from $24/mo). Its affiliate program pays 30-50% recurring commissions for life.",
+    "affiliateUrl": "https://scalenut.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "surfer": {
+    "toolSlug": "surfer",
+    "toolName": "Surfer",
+    "priceTier": "paid",
+    "priceFromUsd": 99,
+    "pricePeriod": "mo",
+    "commissionPct": 75,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "SEO professionals who need on-page content optimization; affiliates get tiered one-time CPA commissions",
+    "keyFeatures": [
+      "SEO content optimization tool",
+      "Plan tiers: Standard ($99/mo), Pro ($182/mo), Peace of Mind ($299/mo) - yearly billing",
+      "AI article generation feature (introduced 2023)"
+    ],
+    "pros": [
+      "Tiered one-time CPA: 75% of monthly plan fee at Tier 1, up to 125% at Tier 3",
+      "Yearly-plan commissions: 15% at Tier 1, up to 25% at Tier 3"
+    ],
+    "cons": [
+      "Commissions are one-time CPA, not recurring",
+      "Commission rate depends on affiliate tier"
+    ],
+    "verdict": "Surfer is an SEO content optimization tool from $99/mo (yearly billing). Its affiliate program pays tiered one-time CPA commissions (75% of a monthly plan at Tier 1 up to 125% at Tier 3), not recurring percentages.",
+    "affiliateUrl": "https://surferseo.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "brand24": {
+    "toolSlug": "brand24",
+    "toolName": "Brand24",
+    "priceTier": "paid",
+    "priceFromUsd": 199,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Brands and agencies that need social media monitoring; Individual plan from $199/mo on annual billing",
+    "keyFeatures": [
+      "Social media monitoring platform",
+      "Plan tiers: Individual ($249/mo, $199/mo annual), Team ($349/mo), Pro ($499/mo)"
+    ],
+    "pros": [
+      "Up to 30% recurring commission"
+    ],
+    "cons": [],
+    "verdict": "Brand24 is a social media monitoring tool from $199/mo (annual billing; $249 monthly). Its affiliate program pays up to 30% recurring commissions.",
+    "affiliateUrl": "https://brand24.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "krispcall": {
+    "toolSlug": "krispcall",
+    "toolName": "KrispCall",
+    "priceTier": "paid",
+    "priceFromUsd": 12,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Small businesses that need an AI phone system (from $12/mo)",
+    "keyFeatures": [
+      "AI phone system for small business",
+      "Pricing from $12/mo"
+    ],
+    "pros": [
+      "30% lifetime recurring commission"
+    ],
+    "cons": [],
+    "verdict": "KrispCall is an AI phone system from $12/mo. Its affiliate program pays 30% recurring commissions for life.",
+    "affiliateUrl": "https://krispcall.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "pictory": {
+    "toolSlug": "pictory",
+    "toolName": "Pictory",
+    "priceTier": "paid",
+    "priceFromUsd": 25,
+    "pricePeriod": "mo",
+    "commissionPct": 50,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Creators who want AI video generation from scripts; Starter from $25/mo on annual billing",
+    "keyFeatures": [
+      "AI video generator",
+      "Starter plan: $25/mo annual ($29 monthly)"
+    ],
+    "pros": [
+      "Up to 50% recurring commission"
+    ],
+    "cons": [],
+    "verdict": "Pictory is an AI video generation tool from $25/mo (annual billing; $29 monthly). Its affiliate program pays recurring commissions up to 50%.",
+    "affiliateUrl": "https://pictory.ai/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  },
+  "meetgeek": {
+    "toolSlug": "meetgeek",
+    "toolName": "MeetGeek",
+    "priceTier": "paid",
+    "priceFromUsd": null,
+    "pricePeriod": null,
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Teams that want AI meeting notes and recordings; 30% recurring commission",
+    "keyFeatures": [],
+    "pros": [
+      "30% recurring commission (monthly commission per subscription)"
+    ],
+    "cons": [],
+    "verdict": "MeetGeek is an AI meeting recorder and note-taker. Its affiliate program pays 30% recurring commissions. Pricing was not verified at publish time.",
+    "affiliateUrl": "https://meetgeek.ai/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-07"
+  }
+}

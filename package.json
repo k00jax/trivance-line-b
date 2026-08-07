@@ -1,0 +1,23 @@
+{
+  "name": "trivance-line-b",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Trivance LINE B - programmatic SEO affiliate engine for AI tools (static Next.js export for GitHub Pages)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/validate-data.mjs && next build && node scripts/generate-sitemaps.mjs",
+    "typecheck": "tsc --noEmit",
+    "preview": "python -m http.server 8080 -d out"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}

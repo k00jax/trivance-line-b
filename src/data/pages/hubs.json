@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "slug": "best/ai-tools",
+      "title": "Best AI Tools (2026): Data-Driven Roundups",
+      "h1": "Best AI Tools (2026)",
+      "metaDescription": "Index of data-driven AI tool roundups with verified pricing and affiliate commission data, all checked 2026-08-07.",
+      "intro": "This hub indexes the best-of category pages in this dataset. Every page is generated from the same typed dataset, and every price and commission figure carries a verification date.",
+      "sections": [
+        {
+          "heading": "Published roundups",
+          "links": [
+            {
+              "label": "Best AI writing tools",
+              "href": "/best/ai-writing-tools/",
+              "description": "Jasper, Writesonic and Scalenut compared on verified price and commission data."
+            }
+          ],
+          "planned": [
+            "AI video generators",
+            "AI meeting recorders",
+            "AI content generators",
+            "AI phone systems",
+            "AI chatbots",
+            "AI social media tools",
+            "AI SEO tools",
+            "AI headshot generators",
+            "AI code tools"
+          ]
+        }
+      ],
+      "updatedAt": "2026-08-07"
+    },
+    {
+      "slug": "alternatives",
+      "title": "AI Tool Alternatives (2026)",
+      "h1": "AI Tool Alternatives (2026)",
+      "metaDescription": "Index of AI tool alternatives pages with verified pricing, recurring commissions and documented reasons users switch (checked 2026-08-07).",
+      "intro": "Alternatives pages answer a specific search intent: 'what else can I use instead of X?'. Each page compares against the primary tool using the same verified dataset used everywhere on this site.",
+      "sections": [
+        {
+          "heading": "Published alternatives pages",
+          "links": [
+            {
+              "label": "Jasper AI alternatives",
+              "href": "/jasper-ai-alternatives/",
+              "description": "Writesonic and Scalenut with honest, dated comparison data."
+            }
+          ],
+          "planned": [
+            "Pictory alternatives",
+            "Surfer SEO alternatives",
+            "Brand24 alternatives",
+            "KrispCall alternatives",
+            "Scalenut alternatives"
+          ]
+        }
+      ],
+      "updatedAt": "2026-08-07"
+    }
+  ]
+}

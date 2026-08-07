@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "slug": "jasper-ai-alternatives",
+      "h1": "Jasper AI Alternatives (2026): Compared on Verified Data",
+      "metaDescription": "Jasper AI alternatives compared on verified 2026 data: Writesonic (from $79/mo, 20% x 12 months) and Scalenut (from $59/mo, 30-50% for life), plus documented reasons users switch. Checked 2026-08-07.",
+      "primaryToolSlug": "jasper",
+      "alternativeSlugs": ["writesonic", "scalenut"],
+      "reasonWhy": [
+        "Price: Jasper's entry plan starts at $59/mo on annual billing ($69 monthly). Both alternatives in this dataset publish a starting price in the same band (Writesonic from $79/mo, Scalenut from $59/mo), and Scalenut notes a limited-time starter offer from $24/mo on its pricing page.",
+        "Output uniformity: AI-generated copy can start to look the same across tools. As one Hacker News commenter put it in 2024, \"Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###\". Teams that hit this wall often compare tools that differ in plan structure or workflow.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" This page responds to that by publishing only dated, verified price and commission data, with no unverifiable 'we tested it' claims.",
+        "Affiliate economics: for publishers, Jasper pays 25% recurring on Creator/Teams plans (Business excluded), Writesonic pays 20% recurring for 12 months, and Scalenut pays 30-50% recurring for life. Different programs suit different traffic profiles."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###",
+          "source": "Hacker News, 2024-10-11",
+          "url": "https://news.ycombinator.com/item?id=41808868"
+        },
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Jasper AI alternatives?",
+          "answer": "In this dataset (verified 2026-08-07): Writesonic, from $79/mo with 20% recurring commissions for 12 months, and Scalenut, from $59/mo with 30-50% recurring commissions for life. Ratings were not verified for either at publish time."
+        },
+        {
+          "question": "Is there a free Jasper alternative?",
+          "answer": "No free tier was verified for Jasper or for the alternatives in this dataset on 2026-08-07. Writesonic and Scalenut both publish paid plans starting at $79/mo and $59/mo respectively."
+        },
+        {
+          "question": "Why do people switch away from Jasper?",
+          "answer": "The documented reasons in this dataset: starting price, output uniformity concerns about AI-generated copy (cited 2024 Hacker News complaint), and distrust of review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "updatedAt": "2026-08-07",
+      "disclosure": true
+    }
+  ]
+}

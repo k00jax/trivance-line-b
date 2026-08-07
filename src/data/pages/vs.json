@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "slug": "writesonic-vs-jasper",
+      "h1": "Writesonic vs Jasper (2026): Which AI Writing Tool Is Better?",
+      "metaDescription": "Writesonic vs Jasper compared on verified 2026 data: pricing (from $79/mo vs from $59/mo), affiliate commissions (20% x 12 months vs 25% recurring), plans and features. Checked 2026-08-07.",
+      "toolASlug": "writesonic",
+      "toolBSlug": "jasper",
+      "updatedAt": "2026-08-07",
+      "verdict": {
+        "winner": "Depends on budget and commission structure - Jasper leads on starting price and open-ended recurring commission; Writesonic leads on plan range and a defined 12-month window.",
+        "why": "On verified data (2026-08-07), Jasper is cheaper to start ($59/mo vs $79/mo, both annual billing) and pays 25% recurring commissions on Creator and Teams plans with no stated end date. Writesonic pays 20% recurring but only for 12 months, and its plans run to $399/mo. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
+        "bestForA": "Writesonic: content teams that want a broad plan range (Swipe Starter to Growth) and a clearly defined 12-month recurring commission window.",
+        "bestForB": "Jasper: teams that want a lower starting price and open-ended 25% recurring commissions on Creator/Teams plans."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$79/mo (Swipe Starter)", "toolBValue": "$59/mo (Pro)" },
+        { "rowLabel": "Monthly billing price", "toolAValue": "Not stated in verified source", "toolBValue": "$69/mo" },
+        { "rowLabel": "Plan range", "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)", "toolBValue": "Creator, Teams, Business (Pro from $59/mo)" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "20% recurring", "toolBValue": "25% recurring (Creator/Teams; not Business)" },
+        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "Not stated (paid per billing period)" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "60 days", "toolBValue": "Not stated in official agreement" },
+        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Writesonic or Jasper?",
+          "answer": "Based on verified price and commission data (2026-08-07), Jasper starts lower ($59/mo vs $79/mo annual) and pays a higher recurring commission (25% vs 20%) with no stated end date. Writesonic has the wider plan range (up to $399/mo) and a defined 12-month commission window. Neither rating was verified at publish time."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Writesonic or Jasper?",
+          "answer": "Jasper: 25% recurring on Creator and Teams plans (Business excluded). Writesonic: 20% recurring for 12 months. Both verified on official pages on 2026-08-07."
+        },
+        {
+          "question": "Does Writesonic or Jasper have a free plan?",
+          "answer": "Not stated in the pricing data verified on 2026-08-07. Both tools list paid plans from $79/mo and $59/mo respectively."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "disclosure": true
+    }
+  ]
+}
