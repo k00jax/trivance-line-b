@@ -26,7 +26,8 @@
     "verdict": "Jasper is a dedicated AI writing assistant from $59/mo (annual billing; $69 monthly). Its affiliate program pays 25% recurring on Creator and Teams plans, with Business excluded.",
     "affiliateUrl": "https://www.jasper.ai/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-content-generators"
   },
   "writesonic": {
     "toolSlug": "writesonic",
@@ -55,7 +56,8 @@
     "verdict": "Writesonic is an AI writing tool from $79/mo (annual billing). Its affiliate program pays 20% recurring for 12 months with a 60-day cookie.",
     "affiliateUrl": "https://writesonic.com/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-content-generators"
   },
   "scalenut": {
     "toolSlug": "scalenut",
@@ -83,7 +85,8 @@
     "verdict": "Scalenut is an AI SEO content tool from $59/mo (Starter; limited offer from $24/mo). Its affiliate program pays 30-50% recurring commissions for life.",
     "affiliateUrl": "https://scalenut.com/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-content-generators"
   },
   "surfer": {
     "toolSlug": "surfer",
@@ -113,7 +116,8 @@
     "verdict": "Surfer is an SEO content optimization tool from $99/mo (yearly billing). Its affiliate program pays tiered one-time CPA commissions (75% of a monthly plan at Tier 1 up to 125% at Tier 3), not recurring percentages.",
     "affiliateUrl": "https://surferseo.com/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-seo-tools"
   },
   "brand24": {
     "toolSlug": "brand24",
@@ -138,7 +142,8 @@
     "verdict": "Brand24 is a social media monitoring tool from $199/mo (annual billing; $249 monthly). Its affiliate program pays up to 30% recurring commissions.",
     "affiliateUrl": "https://brand24.com/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-social-media-tools"
   },
   "krispcall": {
     "toolSlug": "krispcall",
@@ -163,7 +168,8 @@
     "verdict": "KrispCall is an AI phone system from $12/mo. Its affiliate program pays 30% recurring commissions for life.",
     "affiliateUrl": "https://krispcall.com/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-phone-systems"
   },
   "pictory": {
     "toolSlug": "pictory",
@@ -188,7 +194,8 @@
     "verdict": "Pictory is an AI video generation tool from $25/mo (annual billing; $29 monthly). Its affiliate program pays recurring commissions up to 50%.",
     "affiliateUrl": "https://pictory.ai/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-video-generators"
   },
   "meetgeek": {
     "toolSlug": "meetgeek",
@@ -210,6 +217,501 @@
     "verdict": "MeetGeek is an AI meeting recorder and note-taker. Its affiliate program pays 30% recurring commissions. Pricing was not verified at publish time.",
     "affiliateUrl": "https://meetgeek.ai/?aff=PLACEHOLDER",
     "affiliateDisclosure": true,
-    "pricedAt": "2026-08-07"
+    "pricedAt": "2026-08-07",
+    "category": "ai-meeting-recorders"
+  },
+  "tidio": {
+    "toolSlug": "tidio",
+    "toolName": "Tidio",
+    "priceTier": "freemium",
+    "priceFromUsd": 24.17,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "SMBs that want an AI chatbot plus live chat in one tool",
+    "keyFeatures": [
+      "Lyro AI agent for automated conversations",
+      "Live chat with human handoff",
+      "Visitor tracking and chat flows",
+      "Free plan available"
+    ],
+    "pros": [
+      "Commission open to everyone (no audience requirement)",
+      "30% per sale with monthly payouts",
+      "Up to $300/mo plans = high ticket value"
+    ],
+    "cons": [
+      "Commission type (recurring vs one-time) not stated on official page",
+      "AI agent conversations billed separately from chat"
+    ],
+    "verdict": "Freemium chatbot + live chat platform; affiliate program verified on tidio.com/partners/affiliate (up to 30% per sale). Pricing verified on tidio.com/pricing.",
+    "affiliateUrl": "https://tidio.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-chatbots"
+  },
+  "manychat": {
+    "toolSlug": "manychat",
+    "toolName": "ManyChat",
+    "priceTier": "freemium",
+    "priceFromUsd": 14.0,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 12,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Instagram/DM marketers and creators automating chat funnels",
+    "keyFeatures": [
+      "Instagram DM + Messenger automation",
+      "ManyChat AI assistant",
+      "Templates for comment-to-DM flows",
+      "Free plan, paid from $14/mo"
+    ],
+    "pros": [
+      "30-50% of payments recurring for 12 months (tiered)",
+      "PartnerStack network (manychat.partnerstack.com)",
+      "Top performers reach 100% revenue share"
+    ],
+    "cons": [
+      "Verified via Wayback render 2026-07-22; live site 403s research bots (human re-check before launch)",
+      "Contact-based pricing gets complex at scale"
+    ],
+    "verdict": "Chat-marketing automation leader; affiliate terms verified from official render (30-50% recurring x12mo, PartnerStack). Confirm live page with Kyle before linking.",
+    "affiliateUrl": "https://manychat.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-chatbots"
+  },
+  "hootsuite": {
+    "toolSlug": "hootsuite",
+    "toolName": "Hootsuite",
+    "priceTier": "paid",
+    "priceFromUsd": 99.0,
+    "pricePeriod": "mo",
+    "commissionPct": 20,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Teams that need a full social media management suite with analytics",
+    "keyFeatures": [
+      "Publish/schedule across major networks",
+      "Social listening (Lumen)",
+      "AI assistant for captions and replies",
+      "Plans $99-$399/user/mo billed annually"
+    ],
+    "pros": [
+      "Big-brand trust and high-converting free trial",
+      "Official affiliate page on hootsuite.com with terms",
+      "90-day cookie window via Impact"
+    ],
+    "cons": [
+      "Commission is 20% of FIRST month revenue only (not recurring)",
+      "Approval via Impact application; agency HootPartner path for enterprise"
+    ],
+    "verdict": "Enterprise-grade social suite; affiliate program verified (20% first-month revenue, Impact, 90-day cookie). Best for authority listicles, not recurring income.",
+    "affiliateUrl": "https://hootsuite.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-social-media-tools"
+  },
+  "metricool": {
+    "toolSlug": "metricool",
+    "toolName": "Metricool",
+    "priceTier": "freemium",
+    "priceFromUsd": 20.0,
+    "pricePeriod": "mo",
+    "commissionPct": 25,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Freelancers and small agencies managing multiple brands",
+    "keyFeatures": [
+      "Unified analytics + scheduling",
+      "Metricool MCP and API integrations",
+      "Multi-brand management (5-50 brands)",
+      "Free plan, paid from $20/mo (annual)"
+    ],
+    "pros": [
+      "Tiered recurring commission: 25% Associate up to $100/user, 50% Partner up to $300/user",
+      "Cookies never expire (lifetime attribution)",
+      "Instant Tier-1 enrollment for every Metricool user"
+    ],
+    "cons": [
+      "$200 minimum payout threshold",
+      "50% tier requires 200 paid registrations"
+    ],
+    "verdict": "SMB social analytics/scheduling tool with an unusually generous verified affiliate program (25-50% recurring, lifetime cookies). Strong gap-fill for ai-social-media-tools.",
+    "affiliateUrl": "https://metricool.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-social-media-tools"
+  },
+  "socialbee": {
+    "toolSlug": "socialbee",
+    "toolName": "SocialBee",
+    "priceTier": "paid",
+    "priceFromUsd": 24.2,
+    "pricePeriod": "mo",
+    "commissionPct": 20,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Small businesses and agencies wanting AI-assisted evergreen scheduling",
+    "keyFeatures": [
+      "AI content generation + evergreen category-based scheduling",
+      "Social inbox, analytics",
+      "14-day free trial, paid from $24.2/mo (annual)"
+    ],
+    "pros": [
+      "20% recurring commission in perpetuity + 10% on ConciergeBee services",
+      "PartnerStack tracking, 90-day cookies",
+      "Monthly payouts, dedicated account manager"
+    ],
+    "cons": [
+      "Requires Advocate vetting after application (higher friction)",
+      "Pricing is mid-range; per-seat limits on lower plans"
+    ],
+    "verdict": "AI-powered social scheduling for SMBs; affiliate program verified on official page (20% recurring in perpetuity + 10% services, PartnerStack).",
+    "affiliateUrl": "https://socialbee.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-social-media-tools"
+  },
+  "aragon": {
+    "toolSlug": "aragon",
+    "toolName": "Aragon.ai",
+    "priceTier": "paid",
+    "priceFromUsd": 35.0,
+    "pricePeriod": null,
+    "commissionPct": 30,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Professionals who want quick studio-grade AI headshots",
+    "keyFeatures": [
+      "20-100 AI headshots per package",
+      "2h to 30min processing tiers",
+      "Outfits, poses, backgrounds",
+      "Subscriptions from $15/mo"
+    ],
+    "pros": [
+      "30% commission on every sale, no caps",
+      "$400k+ paid to 2,000+ affiliates (vendor claim)",
+      "Monthly payouts on first Monday, $100 min"
+    ],
+    "cons": [
+      "Subscriptions pay 30% on FIRST payment only (not recurring)",
+      "One-time package model limits commission size per referral"
+    ],
+    "verdict": "AI headshot generator; affiliate program verified on aragon.ai/affiliates (30% per sale / first payment, $100 min payout). Pricing verified from official JSON-LD.",
+    "affiliateUrl": "https://www.aragon.ai/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-headshot-generators"
+  },
+  "headshotpro": {
+    "toolSlug": "headshotpro",
+    "toolName": "HeadshotPro",
+    "priceTier": "paid",
+    "priceFromUsd": 29.0,
+    "pricePeriod": null,
+    "commissionPct": 30,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Job seekers and teams needing fast corporate headshots",
+    "keyFeatures": [
+      "Basic $29 / Professional $39 / Executive $59 one-time packages",
+      "Team credits from $19.50/shoot",
+      "14-day money-back guarantee"
+    ],
+    "pros": [
+      "30% commission on every sale, bi-weekly PayPal payouts",
+      "$25 minimum payout, 60-day cookie",
+      "Official page quotes ~5% conversion"
+    ],
+    "cons": [
+      "One-time purchases only (no recurring commission)",
+      "Competitive niche with several similar tools"
+    ],
+    "verdict": "HeadshotPro affiliate program verified on headshotpro.com/affiliate (30% per sale, $25 min, bi-weekly, 60-day cookie). Pricing verified on headshotpro.com/pricing.",
+    "affiliateUrl": "https://www.headshotpro.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-headshot-generators"
+  },
+  "betterpic": {
+    "toolSlug": "betterpic",
+    "toolName": "BetterPic",
+    "priceTier": "paid",
+    "priceFromUsd": 35.0,
+    "pricePeriod": null,
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 3,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Professionals wanting 4K AI headshots with human-editing option",
+    "keyFeatures": [
+      "4K headshots in under an hour",
+      "150+ styles, AI + human editing",
+      "Money-back guarantee",
+      "31M+ headshots generated (vendor claim)"
+    ],
+    "pros": [
+      "Program verified on official Dub partner page (partners.dub.co/betterpic)",
+      "Recurring commission window (3 months per sale)"
+    ],
+    "cons": [
+      "Commission % INCONSISTENT on official page (headline 30%, body 35%, CTA 20%) - re-confirm at application",
+      "Approval required"
+    ],
+    "verdict": "AI headshot generator with a verified affiliate program, but the commission rate is stated inconsistently (30%/35%/20%) on the official partner page - treat % as PARTIAL until confirmed.",
+    "affiliateUrl": "https://betterpic.io/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-headshot-generators"
+  },
+  "heygen": {
+    "toolSlug": "heygen",
+    "toolName": "HeyGen",
+    "priceTier": "freemium",
+    "priceFromUsd": 24.0,
+    "pricePeriod": "mo",
+    "commissionPct": 35,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 3,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Creators and marketers making avatar-based AI videos",
+    "keyFeatures": [
+      "AI avatars + voice cloning",
+      "Text-to-video, video translation, lip sync",
+      "Creator $29/mo ($24 annual), Pro $49/mo, Business $149/mo"
+    ],
+    "pros": [
+      "35% recurring commission for 3 months per subscription",
+      "50% commission promo Aug 1-Oct 31, 2026 (official)",
+      "30-day tracking window, monthly payouts, $100 min"
+    ],
+    "cons": [
+      "Requires 5K+ followers on one platform to apply (high friction)",
+      "Creator-program style, not classic affiliate for SEO sites"
+    ],
+    "verdict": "HeyGen Social Creator Program verified on official page (35% recurring x3mo, 50% promo, min $100). High friction (5K+ followers) - flag for Kyle.",
+    "affiliateUrl": "https://www.heygen.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-video-generators"
+  },
+  "veed": {
+    "toolSlug": "veed",
+    "toolName": "VEED",
+    "priceTier": "freemium",
+    "priceFromUsd": null,
+    "pricePeriod": "mo",
+    "commissionPct": 20,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Marketers and creators who want browser-based AI video editing",
+    "keyFeatures": [
+      "AI video editing, subtitles, translation",
+      "Free Pro account + 3,000 AI credits for affiliates",
+      "Free plan; paid tiers client-rendered"
+    ],
+    "pros": [
+      "20% initial commission + 20% recurring on subscription payments",
+      "Bonus commissions up to 50%",
+      "Impact.com payouts"
+    ],
+    "cons": [
+      "Pricing page renders USD prices client-side only - price tiers NOT bot-extractable (mark partial)",
+      "Cookie/window details not stated on render"
+    ],
+    "verdict": "Browser AI video editor; affiliate program verified on veed.io/affiliate (20% + 20% recurring, up to 50% bonus, Impact). Pricing PARTIAL (client-rendered).",
+    "affiliateUrl": "https://www.veed.io/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-video-generators"
+  },
+  "fireflies": {
+    "toolSlug": "fireflies",
+    "toolName": "Fireflies.ai",
+    "priceTier": "freemium",
+    "priceFromUsd": 10.0,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 12,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Sales teams and PMs who want automated meeting notes + CRM capture",
+    "keyFeatures": [
+      "Meeting recording, transcription, AI summaries",
+      "Sales: autofill CRM + deal intelligence",
+      "Free plan; Pro $10/seat/mo (annual), Business $19, Enterprise $39"
+    ],
+    "pros": [
+      "Up to 30% recurring commission for 12 months per sale",
+      "90-day cookie window",
+      "PayPal payouts"
+    ],
+    "cons": [
+      "Commission tiering beyond 30% not specified on render",
+      "Approval via program application"
+    ],
+    "verdict": "AI meeting assistant; affiliate program verified on fireflies.ai/affiliate (up to 30% recurring x12mo, 90-day cookie). Pricing verified on fireflies.ai/pricing.",
+    "affiliateUrl": "https://fireflies.ai/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-meeting-recorders"
+  },
+  "callhippo": {
+    "toolSlug": "callhippo",
+    "toolName": "CallHippo",
+    "priceTier": "freemium",
+    "priceFromUsd": 18.0,
+    "pricePeriod": "mo",
+    "commissionPct": 20,
+    "commissionRecurring": true,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "SMBs wanting an AI-powered cloud phone system",
+    "keyFeatures": [
+      "AI voice assistant, call routing, analytics",
+      "Free plan; Starter $18/user/mo, Professional $30, Ultimate $42",
+      "Virtual phone numbers in 50+ countries"
+    ],
+    "pros": [
+      "20% recurring commission FOREVER (vendor-stated)",
+      "Up to 90-day cookie window",
+      "Free account for affiliates, monthly payouts"
+    ],
+    "cons": [
+      "20% is lower than some competitors (KrispCall 30% lifetime)",
+      "Requires free registration/account"
+    ],
+    "verdict": "AI phone system; affiliate program verified on callhippo.com/affiliate-program (20% recurring forever, 90-day cookie). Pricing verified on callhippo.com/pricing.",
+    "affiliateUrl": "https://callhippo.com/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-phone-systems"
+  },
+  "rytr": {
+    "toolSlug": "rytr",
+    "toolName": "Rytr",
+    "priceTier": "freemium",
+    "priceFromUsd": 7.5,
+    "pricePeriod": "mo",
+    "commissionPct": 30,
+    "commissionRecurring": true,
+    "commissionWindowMonths": 12,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Budget-conscious writers needing an affordable AI content generator",
+    "keyFeatures": [
+      "AI writing for 40+ use cases",
+      "Free plan; Unlimited $7.50/mo, Premium $24.16/mo (annual billing)",
+      "Plagiarism checker, 30+ tones"
+    ],
+    "pros": [
+      "30% recurring commission for 12 months",
+      "60-day cookies",
+      "$15 activation bonus, no commission caps"
+    ],
+    "cons": [
+      "$100 minimum payout + requires 2+ referred customers to pay out",
+      "Lower price point = smaller commission per sale"
+    ],
+    "verdict": "Affordable AI writer; affiliate program verified on rytr.me/affiliates (30% recurring x12mo, 60-day cookie, $15 activation bonus). Pricing verified on rytr.me/pricing.",
+    "affiliateUrl": "https://rytr.me/?aff=PLACEHOLDER",
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-content-generators"
+  },
+  "cursor": {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "priceTier": "freemium",
+    "priceFromUsd": 20.0,
+    "pricePeriod": "mo",
+    "commissionPct": null,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Developers who want an AI code editor; listed for context only, no affiliate program",
+    "keyFeatures": [
+      "Hobby $0, Pro $20/mo, Ultra $200/mo (verified on cursor.com/pricing 2026-08-08)",
+      "Teams $40/user/mo",
+      "No public affiliate program found - context only"
+    ],
+    "pros": [],
+    "cons": [],
+    "verdict": "Cursor pricing verified (Hobby $0, Pro $20/mo, Ultra $200/mo) but NO public affiliate program was found on 2026-08-08 (affiliate URLs 404). Listed for context only; never promoted.",
+    "affiliateUrl": null,
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-code-tools"
+  },
+  "github-copilot": {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "priceTier": "freemium",
+    "priceFromUsd": 10.0,
+    "pricePeriod": "mo",
+    "commissionPct": null,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Developers who want AI pair programming in their editor; listed for context only, no affiliate program",
+    "keyFeatures": [
+      "Free $0, Pro $10/mo, Pro+ $39/mo (verified on github.com/features/copilot/plans 2026-08-08)",
+      "GitHub runs no affiliate program - context only"
+    ],
+    "pros": [],
+    "cons": [],
+    "verdict": "GitHub Copilot pricing verified (Free $0, Pro $10/mo, Pro+ $39/mo) but GitHub runs NO affiliate program (checked 2026-08-08). Listed for context only; never promoted.",
+    "affiliateUrl": null,
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-code-tools"
+  },
+  "windsurf": {
+    "toolSlug": "windsurf",
+    "toolName": "Windsurf",
+    "priceTier": "freemium",
+    "priceFromUsd": 20.0,
+    "pricePeriod": "mo",
+    "commissionPct": null,
+    "commissionRecurring": false,
+    "commissionWindowMonths": null,
+    "rating": null,
+    "ratingSource": null,
+    "bestFor": "Developers who want an AI code editor with agentic workflows; listed for context only, no affiliate program",
+    "keyFeatures": [
+      "Free $0, Pro $20/mo, Max $200/mo (verified via windsurf.com redirect to devin.ai/pricing 2026-08-08)",
+      "No public affiliate program found - context only"
+    ],
+    "pros": [],
+    "cons": [],
+    "verdict": "Windsurf pricing verified (Free $0, Pro $20/mo, Max $200/mo) but NO public affiliate program was found on 2026-08-08 (affiliate page 404). Listed for context only; never promoted.",
+    "affiliateUrl": null,
+    "affiliateDisclosure": true,
+    "pricedAt": "2026-08-08",
+    "category": "ai-code-tools"
   }
 }

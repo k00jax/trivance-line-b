@@ -13,7 +13,12 @@
             {
               "label": "Best AI writing tools",
               "href": "/best/ai-writing-tools/",
-              "description": "Jasper, Writesonic and Scalenut compared on verified price and commission data."
+              "description": "Jasper, Writesonic, Scalenut and Rytr compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI headshot generators",
+              "href": "/best/ai-headshot-generators/",
+              "description": "Aragon.ai, HeadshotPro and BetterPic compared on verified price and commission data."
             }
           ],
           "planned": []
@@ -24,22 +29,22 @@
             {
               "label": "AI content generators",
               "href": "/ai-content-generators/",
-              "description": "Writesonic, Scalenut and Jasper - verified tools in this category."
+              "description": "Writesonic, Scalenut, Jasper and Rytr - verified tools in this category."
             },
             {
               "label": "AI video generators",
               "href": "/ai-video-generators/",
-              "description": "Pictory - partial; more tools being verified."
+              "description": "Pictory, HeyGen and VEED - verified tools (VEED pricing partial)."
             },
             {
               "label": "AI meeting recorders",
               "href": "/ai-meeting-recorders/",
-              "description": "MeetGeek - partial; more tools being verified."
+              "description": "MeetGeek and Fireflies - verified tools."
             },
             {
               "label": "AI phone systems",
               "href": "/ai-phone-systems/",
-              "description": "KrispCall - partial; more tools being verified."
+              "description": "KrispCall and CallHippo - verified tools."
             },
             {
               "label": "AI SEO tools",
@@ -49,22 +54,22 @@
             {
               "label": "AI chatbots",
               "href": "/ai-chatbots/",
-              "description": "Category data being verified - pages coming soon."
+              "description": "Tidio and ManyChat - verified tools with dated data."
             },
             {
               "label": "AI social media tools",
               "href": "/ai-social-media-tools/",
-              "description": "Category data being verified - pages coming soon."
+              "description": "Hootsuite, Metricool, SocialBee and Brand24 - verified tools."
             },
             {
               "label": "AI headshot generators",
               "href": "/ai-headshot-generators/",
-              "description": "Category data being verified - pages coming soon."
+              "description": "Aragon.ai, HeadshotPro and BetterPic - verified tools."
             },
             {
               "label": "AI code tools",
               "href": "/ai-code-tools/",
-              "description": "Category data being verified - pages coming soon."
+              "description": "No verified affiliate programs among Cursor, GitHub Copilot and Windsurf - listed for context only."
             }
           ],
           "planned": []
@@ -105,22 +110,37 @@
             {
               "label": "Pictory alternatives",
               "href": "/pictory-alternatives/",
-              "description": "Verified status; no direct video-generator alternative verified yet."
+              "description": "HeyGen and VEED with honest, dated comparison data."
             },
             {
               "label": "Brand24 alternatives",
               "href": "/brand24-alternatives/",
-              "description": "Verified status; no direct monitoring alternative verified yet."
+              "description": "Hootsuite, Metricool and SocialBee with an honest monitoring-vs-management note."
             },
             {
               "label": "KrispCall alternatives",
               "href": "/krispcall-alternatives/",
-              "description": "Verified status; no direct phone-system alternative verified yet."
+              "description": "CallHippo with honest, dated comparison data."
             },
             {
               "label": "MeetGeek alternatives",
               "href": "/meetgeek-alternatives/",
-              "description": "Verified status; no direct meeting-tool alternative verified yet."
+              "description": "Fireflies.ai with honest, dated comparison data."
+            },
+            {
+              "label": "Tidio alternatives",
+              "href": "/tidio-alternatives/",
+              "description": "ManyChat with an honest channel-fit note (live chat vs social DM)."
+            },
+            {
+              "label": "Hootsuite alternatives",
+              "href": "/hootsuite-alternatives/",
+              "description": "Metricool and SocialBee with honest, dated comparison data."
+            },
+            {
+              "label": "Metricool alternatives",
+              "href": "/metricool-alternatives/",
+              "description": "SocialBee and Hootsuite with honest, dated comparison data."
             }
           ],
           "planned": []
@@ -152,6 +172,11 @@
               "label": "Jasper vs Scalenut",
               "href": "/jasper-vs-scalenut/",
               "description": "AI writing assistant versus AI SEO content platform."
+            },
+            {
+              "label": "Fireflies vs MeetGeek",
+              "href": "/fireflies-vs-meetgeek/",
+              "description": "AI meeting recorders compared on verified price and commission data."
             }
           ],
           "planned": []
@@ -163,7 +188,7 @@
       "slug": "ai-content-generators",
       "title": "AI Content Generators (2026): Verified Tools Hub",
       "h1": "AI Content Generators (2026)",
-      "metaDescription": "AI content generator tools in this dataset: Writesonic, Scalenut and Jasper with dated pricing and commission data (checked 2026-08-08).",
+      "metaDescription": "AI content generator tools in this dataset: Writesonic, Scalenut, Jasper and Rytr with dated pricing and commission data (checked 2026-08-08).",
       "intro": "This hub indexes AI content generators that have passed verification in this dataset. Every price and commission figure carries a verification date; no tool is listed without verified data.",
       "sections": [
         {
@@ -183,6 +208,11 @@
               "label": "Jasper - AI writing assistant",
               "href": "/jasper-ai-alternatives/",
               "description": "From $59/mo (annual); 25% recurring commission on Creator and Teams plans. Verified data and alternatives."
+            },
+            {
+              "label": "Rytr - affordable AI writer",
+              "href": "/best/ai-writing-tools/",
+              "description": "From $7.50/mo (annual); 30% recurring commission for 12 months. Included in the best-of page."
             }
           ],
           "planned": []
@@ -193,7 +223,7 @@
             {
               "label": "Best AI writing tools",
               "href": "/best/ai-writing-tools/",
-              "description": "Jasper, Writesonic and Scalenut compared on verified price and commission data."
+              "description": "Jasper, Writesonic, Scalenut and Rytr compared on verified price and commission data."
             }
           ],
           "planned": []
@@ -226,8 +256,8 @@
       "slug": "ai-video-generators",
       "title": "AI Video Generators (2026): Verified Tools Hub",
       "h1": "AI Video Generators (2026)",
-      "metaDescription": "AI video generator tools in this dataset: Pictory (partial - more tools being verified) with dated pricing and commission data (checked 2026-08-08).",
-      "intro": "This hub indexes AI video generators that have passed verification in this dataset. Pictory is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "metaDescription": "AI video generator tools in this dataset: Pictory, HeyGen and VEED (VEED pricing partial) with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI video generators that have passed verification in this dataset. Pictory, HeyGen and VEED are the verified tools in this category today; VEED's paid pricing is marked partial because it renders client-side only.",
       "sections": [
         {
           "heading": "Tools in this category",
@@ -235,10 +265,20 @@
             {
               "label": "Pictory - AI video generation",
               "href": "/pictory-alternatives/",
-              "description": "From $25/mo (annual; $29 monthly); up to 50% recurring commission. Verified data and current alternatives status."
+              "description": "From $25/mo (annual; $29 monthly); up to 50% recurring commission. Verified data and alternatives."
+            },
+            {
+              "label": "HeyGen - avatar-based AI video",
+              "href": "/pictory-alternatives/",
+              "description": "From $24/mo (annual); 35% recurring for 3 months (50% promo Aug-Oct 2026); 5K+ followers required."
+            },
+            {
+              "label": "VEED - browser-based AI video editing",
+              "href": "/pictory-alternatives/",
+              "description": "20% + 20% recurring commission; paid pricing partial (client-rendered)."
             }
           ],
-          "planned": ["More AI video generators (being verified)"]
+          "planned": []
         },
         {
           "heading": "Related pages",
@@ -246,7 +286,7 @@
             {
               "label": "Pictory alternatives",
               "href": "/pictory-alternatives/",
-              "description": "Verified status and documented reasons users compare."
+              "description": "HeyGen and VEED compared against Pictory on verified data."
             },
             {
               "label": "Best AI tools index",
@@ -263,8 +303,8 @@
       "slug": "ai-meeting-recorders",
       "title": "AI Meeting Recorders (2026): Verified Tools Hub",
       "h1": "AI Meeting Recorders (2026)",
-      "metaDescription": "AI meeting recorder and note-taker tools in this dataset: MeetGeek (partial - more tools being verified) with dated commission data (checked 2026-08-08).",
-      "intro": "This hub indexes AI meeting recorders and note-takers that have passed verification in this dataset. MeetGeek is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "metaDescription": "AI meeting recorder and note-taker tools in this dataset: MeetGeek and Fireflies.ai with dated commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI meeting recorders and note-takers that have passed verification in this dataset. MeetGeek and Fireflies.ai are the verified tools in this category today; MeetGeek's starting price was not verified at publish time.",
       "sections": [
         {
           "heading": "Tools in this category",
@@ -272,10 +312,15 @@
             {
               "label": "MeetGeek - AI meeting recorder and note-taker",
               "href": "/meetgeek-alternatives/",
-              "description": "30% recurring commission; pricing not verified at publish time. Verified data and current alternatives status."
+              "description": "30% recurring commission; pricing not verified at publish time. Verified data and alternatives."
+            },
+            {
+              "label": "Fireflies.ai - AI meeting assistant",
+              "href": "/fireflies-vs-meetgeek/",
+              "description": "Free plan, Pro from $10/seat/mo (annual); up to 30% recurring for 12 months. Side-by-side with MeetGeek."
             }
           ],
-          "planned": ["More AI meeting recorders (being verified)"]
+          "planned": []
         },
         {
           "heading": "Related pages",
@@ -283,7 +328,12 @@
             {
               "label": "MeetGeek alternatives",
               "href": "/meetgeek-alternatives/",
-              "description": "Verified status and documented reasons users compare."
+              "description": "Fireflies.ai compared against MeetGeek on verified data."
+            },
+            {
+              "label": "Fireflies vs MeetGeek",
+              "href": "/fireflies-vs-meetgeek/",
+              "description": "Side-by-side comparison on verified price and commission data."
             },
             {
               "label": "Best AI tools index",
@@ -300,8 +350,8 @@
       "slug": "ai-phone-systems",
       "title": "AI Phone Systems (2026): Verified Tools Hub",
       "h1": "AI Phone Systems (2026)",
-      "metaDescription": "AI phone system tools in this dataset: KrispCall (partial - more tools being verified) with dated pricing and commission data (checked 2026-08-08).",
-      "intro": "This hub indexes AI phone systems that have passed verification in this dataset. KrispCall is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "metaDescription": "AI phone system tools in this dataset: KrispCall and CallHippo with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI phone systems that have passed verification in this dataset. KrispCall and CallHippo are the verified tools in this category today.",
       "sections": [
         {
           "heading": "Tools in this category",
@@ -309,10 +359,15 @@
             {
               "label": "KrispCall - AI phone system for small business",
               "href": "/krispcall-alternatives/",
-              "description": "From $12/mo; 30% lifetime recurring commission. Verified data and current alternatives status."
+              "description": "From $12/mo; 30% lifetime recurring commission. Verified data and alternatives."
+            },
+            {
+              "label": "CallHippo - AI-powered cloud phone system",
+              "href": "/krispcall-alternatives/",
+              "description": "Free plan, from $18/user/mo; 20% recurring commission forever (vendor-stated)."
             }
           ],
-          "planned": ["More AI phone systems (being verified)"]
+          "planned": []
         },
         {
           "heading": "Related pages",
@@ -320,7 +375,7 @@
             {
               "label": "KrispCall alternatives",
               "href": "/krispcall-alternatives/",
-              "description": "Verified status and documented reasons users compare."
+              "description": "CallHippo compared against KrispCall on verified data."
             },
             {
               "label": "Best AI tools index",
@@ -382,18 +437,39 @@
     },
     {
       "slug": "ai-chatbots",
-      "title": "AI Chatbots (2026): Category Hub",
+      "title": "AI Chatbots (2026): Verified Tools Hub",
       "h1": "AI Chatbots (2026)",
-      "metaDescription": "AI chatbot tools category hub. Category data being verified - pages coming soon.",
-      "intro": "Category data being verified - pages coming soon. This hub will list AI chatbot tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "metaDescription": "AI chatbot tools in this dataset: Tidio and ManyChat with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI chatbot tools that have passed verification in this dataset. Tidio and ManyChat are the verified tools in this category today; ManyChat's live site 403s research bots, so its terms were verified from an official archive render (2026-07-22) and should be re-confirmed with Kyle before launch.",
       "sections": [
         {
-          "heading": "Status",
+          "heading": "Tools in this category",
           "links": [
             {
-              "label": "Back to all AI tool categories",
+              "label": "Tidio - AI chatbot plus live chat",
+              "href": "/tidio-alternatives/",
+              "description": "Free plan, Starter from $24.17/mo (annual); up to 30% per sale. Verified data and alternatives."
+            },
+            {
+              "label": "ManyChat - Instagram DM and Messenger automation",
+              "href": "/tidio-alternatives/",
+              "description": "Free plan, paid from $14/mo; 30-50% recurring for 12 months (archive-verified)."
+            }
+          ],
+          "planned": []
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "Tidio alternatives",
+              "href": "/tidio-alternatives/",
+              "description": "ManyChat compared against Tidio with an honest channel-fit note."
+            },
+            {
+              "label": "Best AI tools index",
               "href": "/best/ai-tools/",
-              "description": "Index of every AI tool category hub."
+              "description": "Every AI tool category hub in one place."
             }
           ],
           "planned": []
@@ -403,18 +479,59 @@
     },
     {
       "slug": "ai-social-media-tools",
-      "title": "AI Social Media Tools (2026): Category Hub",
+      "title": "AI Social Media Tools (2026): Verified Tools Hub",
       "h1": "AI Social Media Tools (2026)",
-      "metaDescription": "AI social media tools category hub. Category data being verified - pages coming soon.",
-      "intro": "Category data being verified - pages coming soon. This hub will list AI social media tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "metaDescription": "AI social media tools in this dataset: Hootsuite, Metricool, SocialBee and Brand24 with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI social media tools that have passed verification in this dataset. Hootsuite, Metricool and SocialBee are social media management tools; Brand24 is social media MONITORING and is listed here per Director assignment with an honest category-fit note on its alternatives page.",
       "sections": [
         {
-          "heading": "Status",
+          "heading": "Tools in this category",
           "links": [
             {
-              "label": "Back to all AI tool categories",
+              "label": "Hootsuite - social media management suite",
+              "href": "/hootsuite-alternatives/",
+              "description": "From $99/user/mo (annual); 20% of first-month revenue (Impact, 90-day cookie)."
+            },
+            {
+              "label": "Metricool - analytics and scheduling",
+              "href": "/metricool-alternatives/",
+              "description": "Free plan, paid from $20/mo (annual); 25-50% recurring with lifetime cookies."
+            },
+            {
+              "label": "SocialBee - AI-assisted evergreen scheduling",
+              "href": "/hootsuite-alternatives/",
+              "description": "From $24.20/mo (annual); 20% recurring in perpetuity."
+            },
+            {
+              "label": "Brand24 - social media monitoring",
+              "href": "/brand24-alternatives/",
+              "description": "From $199/mo (annual); up to 30% recurring. Monitoring, not management - see alternatives note."
+            }
+          ],
+          "planned": []
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "Hootsuite alternatives",
+              "href": "/hootsuite-alternatives/",
+              "description": "Metricool and SocialBee with honest, dated comparison data."
+            },
+            {
+              "label": "Metricool alternatives",
+              "href": "/metricool-alternatives/",
+              "description": "SocialBee and Hootsuite with honest, dated comparison data."
+            },
+            {
+              "label": "Brand24 alternatives",
+              "href": "/brand24-alternatives/",
+              "description": "Management tools with an honest monitoring-vs-management note."
+            },
+            {
+              "label": "Best AI tools index",
               "href": "/best/ai-tools/",
-              "description": "Index of every AI tool category hub."
+              "description": "Every AI tool category hub in one place."
             }
           ],
           "planned": []
@@ -424,18 +541,44 @@
     },
     {
       "slug": "ai-headshot-generators",
-      "title": "AI Headshot Generators (2026): Category Hub",
+      "title": "AI Headshot Generators (2026): Verified Tools Hub",
       "h1": "AI Headshot Generators (2026)",
-      "metaDescription": "AI headshot generator tools category hub. Category data being verified - pages coming soon.",
-      "intro": "Category data being verified - pages coming soon. This hub will list AI headshot generator tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "metaDescription": "AI headshot generator tools in this dataset: Aragon.ai, HeadshotPro and BetterPic with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI headshot generators that have passed verification in this dataset. Aragon.ai, HeadshotPro and BetterPic are the verified tools in this category today, with the cleanest three-tool set in the dataset.",
       "sections": [
         {
-          "heading": "Status",
+          "heading": "Tools in this category",
           "links": [
             {
-              "label": "Back to all AI tool categories",
+              "label": "Aragon.ai - studio-grade AI headshots",
+              "href": "/best/ai-headshot-generators/",
+              "description": "Packages from $35; 30% per sale (first payment on subscriptions)."
+            },
+            {
+              "label": "HeadshotPro - fast corporate headshots",
+              "href": "/best/ai-headshot-generators/",
+              "description": "From $29 one-time; 30% per sale, 60-day cookie."
+            },
+            {
+              "label": "BetterPic - 4K headshots with human-editing option",
+              "href": "/best/ai-headshot-generators/",
+              "description": "From $35; 30% recurring for 3 months (rate stated inconsistently on official page - partial)."
+            }
+          ],
+          "planned": []
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "Best AI headshot generators",
+              "href": "/best/ai-headshot-generators/",
+              "description": "All three tools compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI tools index",
               "href": "/best/ai-tools/",
-              "description": "Index of every AI tool category hub."
+              "description": "Every AI tool category hub in one place."
             }
           ],
           "planned": []
@@ -445,10 +588,10 @@
     },
     {
       "slug": "ai-code-tools",
-      "title": "AI Code Tools (2026): Category Hub",
+      "title": "AI Code Tools (2026): No Verified Affiliate Programs",
       "h1": "AI Code Tools (2026)",
-      "metaDescription": "AI code tools category hub. Category data being verified - pages coming soon.",
-      "intro": "Category data being verified - pages coming soon. This hub will list AI code tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "metaDescription": "AI code tools category hub. As of 2026-08-08, none of the major AI code tools (Cursor, GitHub Copilot, Windsurf) run a public affiliate program - listed for context only, never promoted.",
+      "intro": "Honest status as of 2026-08-08: none of the major AI code tools run a public affiliate program. Cursor, GitHub Copilot and Windsurf have verified pricing in this dataset but affiliateUrl is null for each - their affiliate pages 404 and no commission terms exist to verify. They are mentioned here for context only and carry no sponsored links. If a vendor launches a program, it will be added only after verification against an official page.",
       "sections": [
         {
           "heading": "Status",

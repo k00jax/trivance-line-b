@@ -227,6 +227,51 @@
         { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
       ],
       "disclosure": true
+    },
+    {
+      "slug": "fireflies-vs-meetgeek",
+      "h1": "Fireflies vs MeetGeek (2026): Which AI Meeting Assistant Is Better?",
+      "metaDescription": "Fireflies vs MeetGeek compared on verified 2026 data: pricing (from $10/seat/mo vs not verified), affiliate commissions (up to 30% recurring x 12 months vs 30% recurring), free plans and features. Checked 2026-08-08.",
+      "toolASlug": "fireflies",
+      "toolBSlug": "meetgeek",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Fireflies on verified pricing and free plan; MeetGeek matches the 30% recurring commission rate but its pricing was not verified at publish time.",
+        "why": "On verified data (2026-08-08), Fireflies has a verified free plan and Pro from $10/seat/mo (annual billing), with up to 30% recurring commissions for 12 months and a 90-day cookie. MeetGeek's starting price was not verified at publish time, but its verified commission is 30% recurring. Fireflies also brings CRM capture and deal intelligence for sales teams. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
+        "bestForA": "Fireflies: sales teams and PMs who want automated meeting notes, CRM capture and a verified free plan.",
+        "bestForB": "MeetGeek: teams evaluating a 30% recurring commission on an AI meeting recorder; pricing still needs verification."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Category", "toolAValue": "AI meeting recorder + note-taker", "toolBValue": "AI meeting recorder + note-taker" },
+        { "rowLabel": "Starting price", "toolAValue": "Free plan; Pro from $10/seat/mo (annual)", "toolBValue": "Not verified at publish time" },
+        { "rowLabel": "Free tier", "toolAValue": "Yes (free plan verified)", "toolBValue": "Not stated" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "Up to 30% recurring", "toolBValue": "30% recurring" },
+        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "Not stated (monthly per subscription)" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "90 days", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Sales features", "toolAValue": "CRM autofill + deal intelligence", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Fireflies or MeetGeek?",
+          "answer": "On verified 2026 data, Fireflies is the stronger pick where pricing matters: it has a verified free plan, Pro from $10/seat/mo (annual), and up to 30% recurring commissions for 12 months with a 90-day cookie. MeetGeek matches the 30% recurring rate but its starting price was not verified at publish time."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Fireflies or MeetGeek?",
+          "answer": "Both pay 30% recurring commissions. Fireflies' window is verified at 12 months per sale with a 90-day cookie; MeetGeek's window is stated as monthly per subscription with no end date verified. Both verified on official pages on 2026-08-08."
+        },
+        {
+          "question": "Does Fireflies or MeetGeek have a free plan?",
+          "answer": "Fireflies publishes a free plan (verified on fireflies.ai/pricing 2026-08-08). MeetGeek's pricing, including whether a free tier exists, was not verified at publish time."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "MeetGeek alternatives", "href": "/meetgeek-alternatives/" },
+        { "label": "AI meeting recorders hub", "href": "/ai-meeting-recorders/" },
+        { "label": "AI tool alternatives index", "href": "/alternatives/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" }
+      ],
+      "disclosure": true
     }
   ]
 }

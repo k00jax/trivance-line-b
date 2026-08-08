@@ -4,14 +4,14 @@
       "slug": "ai-writing-tools",
       "title": "Best AI Writing Tools (2026): Data-Driven Comparison",
       "h1": "Best AI Writing Tools in 2026",
-      "metaDescription": "A data-driven comparison of AI writing tools with verified 2026 pricing and affiliate commission data: Jasper, Writesonic and Scalenut (checked 2026-08-07).",
+      "metaDescription": "A data-driven comparison of AI writing tools with verified 2026 pricing and affiliate commission data: Jasper, Writesonic, Scalenut and Rytr (checked 2026-08-07/08).",
       "category": "AI writing tools",
       "categorySlug": "ai-writing-tools",
       "updatedAt": "2026-08-08",
-      "intro": "This page compares AI writing tools using verified, dated data only: official pricing pages fetched on 2026-08-07, commission terms from each vendor's official affiliate agreement, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
-      "itemSlugs": ["jasper", "writesonic", "scalenut"],
+      "intro": "This page compares AI writing tools using verified, dated data only: official pricing pages fetched on 2026-08-07 (Jasper, Writesonic, Scalenut) and 2026-08-08 (Rytr), commission terms from each vendor's official affiliate agreement, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": ["jasper", "writesonic", "scalenut", "rytr"],
       "comparisonCriteria": [
-        "Starting price and billing options (official pricing pages, fetched 2026-08-07)",
+        "Starting price and billing options (official pricing pages, fetched 2026-08-07 and 2026-08-08)",
         "Affiliate commission rate and whether it recurs",
         "Commission window and cookie duration (official affiliate pages)",
         "Plan structure and stated features",
@@ -20,15 +20,15 @@
       "faqs": [
         {
           "question": "What is the best AI writing tool in 2026?",
-          "answer": "On verified 2026 data, no single tool is best for everyone. Jasper (from $59/mo) and Writesonic (from $79/mo) are the two dedicated AI writing assistants in this dataset; Scalenut (from $59/mo) adds SEO content tooling. The right pick depends on your budget, workflow and plan needs; the comparison table on this page shows the verified differences."
+          "answer": "On verified 2026 data, no single tool is best for everyone. Jasper (from $59/mo) and Writesonic (from $79/mo) are the two dedicated AI writing assistants in this dataset; Scalenut (from $59/mo) adds SEO content tooling; Rytr (from $7.50/mo annual) is the budget option. The right pick depends on your budget, workflow and plan needs; the comparison table on this page shows the verified differences."
         },
         {
           "question": "How much do AI writing tools cost?",
-          "answer": "Verified on 2026-08-07: Jasper from $59/mo (annual billing, $69/mo monthly), Writesonic from $79/mo (Swipe Starter, annual billing), Scalenut from $59/mo (Starter, with a limited offer from $24/mo noted on the pricing page)."
+          "answer": "Verified: Jasper from $59/mo (annual billing, $69/mo monthly), Writesonic from $79/mo (Swipe Starter, annual billing), Scalenut from $59/mo (Starter, with a limited offer from $24/mo noted on the pricing page), Rytr from $7.50/mo (Unlimited, annual billing; free plan available)."
         },
         {
           "question": "Which AI writing tools pay recurring affiliate commissions?",
-          "answer": "Verified 2026-08-07: Jasper pays 25% recurring on Creator and Teams plans (Business excluded); Writesonic pays 20% recurring for 12 months; Scalenut pays 30-50% recurring for life."
+          "answer": "Verified 2026-08-07/08: Jasper pays 25% recurring on Creator and Teams plans (Business excluded); Writesonic pays 20% recurring for 12 months; Scalenut pays 30-50% recurring for life; Rytr pays 30% recurring for 12 months with a 60-day cookie."
         },
         {
           "question": "How are ratings sourced on this page?",
@@ -41,7 +41,50 @@
         { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
         { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
         { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
-        { "label": "Jasper vs Scalenut", "href": "/jasper-vs-scalenut/" }
+        { "label": "Jasper vs Scalenut", "href": "/jasper-vs-scalenut/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-headshot-generators",
+      "title": "Best AI Headshot Generators (2026): Data-Driven Comparison",
+      "h1": "Best AI Headshot Generators in 2026",
+      "metaDescription": "A data-driven comparison of AI headshot generators with verified 2026 pricing and affiliate commission data: Aragon.ai, HeadshotPro and BetterPic (checked 2026-08-08).",
+      "category": "AI headshot generators",
+      "categorySlug": "ai-headshot-generators",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI headshot generators using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": ["aragon", "headshotpro", "betterpic"],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI headshot generator in 2026?",
+          "answer": "On verified 2026 data, all three tools in this dataset charge a similar one-time starting price (Aragon.ai from $35, HeadshotPro from $29, BetterPic from $35) and all three pay 30% per sale. HeadshotPro has the lowest entry price; Aragon.ai and BetterPic add recurring windows on subscriptions. Ratings were not verified for any at publish time, so the choice is price and package fit."
+        },
+        {
+          "question": "How much do AI headshot generators cost?",
+          "answer": "Verified 2026-08-08: Aragon.ai packages from $35 (40 headshots), HeadshotPro from $29 (Basic, one-time), BetterPic from $35. Aragon.ai also sells subscriptions from $15/mo and HeadshotPro sells team credits from $19.50/shoot."
+        },
+        {
+          "question": "Which AI headshot generators pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: BetterPic pays 30% recurring on subscriptions for a 3-month window (rate stated inconsistently on the official page - 30%/35%/20% - so treat the percentage as partial). Aragon.ai pays 30% of the FIRST payment on subscriptions (not recurring); HeadshotPro pays 30% per one-time sale with a 60-day cookie."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "AI headshot generators hub", "href": "/ai-headshot-generators/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
+        { "label": "AI tool alternatives index", "href": "/alternatives/" }
       ],
       "disclosure": true
     }
