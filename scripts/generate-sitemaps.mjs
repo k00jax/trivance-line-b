@@ -36,6 +36,10 @@ if (!process.env.SITE_URL) {
   console.warn('WARN: SITE_URL not set - sitemaps will use https://example.com. Set SITE_URL before deploying.');
 }
 const basePath = (process.env.SITE_BASEPATH || '').replace(/\/+$/, '');
+// SITE_URL may already include basePath (e.g. https://k00jax.github.io/trivance-line-b).
+// Only append basePath when SITE_URL does not end with it — never double-prefix.
+const originWithBase = siteUrl.endsWith(basePath) ? siteUrl : `${siteUrl}${basePath}`;
+const loc = (path) => `${originWithBase}${path}`;
 
 const readJson = (rel) => JSON.parse(readFileSync(join(root, rel), 'utf8'));
 
@@ -44,7 +48,6 @@ const vsPages = (readJson('src/data/pages/vs.json').pages ?? []);
 const altPages = (readJson('src/data/pages/alternatives.json').pages ?? []);
 const hubPages = (readJson('src/data/pages/hubs.json').pages ?? []);
 
-const loc = (path) => `${siteUrl}${basePath}${path}`;
 const escapeXml = (s) =>
   String(s)
     .replace(/&/g, '&amp;')
