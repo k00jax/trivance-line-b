@@ -3,13 +3,13 @@
     {
       "slug": "writesonic-vs-jasper",
       "h1": "Writesonic vs Jasper (2026): Which AI Writing Tool Is Better?",
-      "metaDescription": "Writesonic vs Jasper compared on verified 2026 data: pricing (from $79/mo vs from $59/mo), affiliate commissions (20% x 12 months vs 25% recurring), plans and features. Checked 2026-08-07.",
+      "metaDescription": "Writesonic vs Jasper compared on verified 2026 data: pricing (from $79/mo vs from $59/mo), affiliate commissions (20% x 12 months vs 25% recurring), plans and features. Checked 2026-08-08.",
       "toolASlug": "writesonic",
       "toolBSlug": "jasper",
-      "updatedAt": "2026-08-07",
+      "updatedAt": "2026-08-08",
       "verdict": {
         "winner": "Depends on budget and commission structure - Jasper leads on starting price and open-ended recurring commission; Writesonic leads on plan range and a defined 12-month window.",
-        "why": "On verified data (2026-08-07), Jasper is cheaper to start ($59/mo vs $79/mo, both annual billing) and pays 25% recurring commissions on Creator and Teams plans with no stated end date. Writesonic pays 20% recurring but only for 12 months, and its plans run to $399/mo. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
+        "why": "On verified data (2026-08-08), Jasper is cheaper to start ($59/mo vs $79/mo, both annual billing) and pays 25% recurring commissions on Creator and Teams plans with no stated end date. Writesonic pays 20% recurring but only for 12 months, and its plans run to $399/mo. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
         "bestForA": "Writesonic: content teams that want a broad plan range (Swipe Starter to Growth) and a clearly defined 12-month recurring commission window.",
         "bestForB": "Jasper: teams that want a lower starting price and open-ended 25% recurring commissions on Creator/Teams plans."
       },
@@ -26,7 +26,7 @@
       "faqs": [
         {
           "question": "Which is better, Writesonic or Jasper?",
-          "answer": "Based on verified price and commission data (2026-08-07), Jasper starts lower ($59/mo vs $79/mo annual) and pays a higher recurring commission (25% vs 20%) with no stated end date. Writesonic has the wider plan range (up to $399/mo) and a defined 12-month commission window. Neither rating was verified at publish time."
+          "answer": "Based on verified price and commission data (2026-08-08), Jasper starts lower ($59/mo vs $79/mo annual) and pays a higher recurring commission (25% vs 20%) with no stated end date. Writesonic has the wider plan range (up to $399/mo) and a defined 12-month commission window. Neither rating was verified at publish time."
         },
         {
           "question": "Which pays higher affiliate commissions, Writesonic or Jasper?",
@@ -38,7 +38,192 @@
         }
       ],
       "relatedLinks": [
+        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
         { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
+        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "jasper-vs-writesonic",
+      "h1": "Jasper vs Writesonic (2026): Which AI Writing Tool Is Better?",
+      "metaDescription": "Jasper vs Writesonic compared on verified 2026 data: pricing (from $59/mo vs from $79/mo), affiliate commissions (25% recurring vs 20% x 12 months), plans and features. Checked 2026-08-08.",
+      "toolASlug": "jasper",
+      "toolBSlug": "writesonic",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on budget and commission structure - Jasper leads on starting price and open-ended recurring commission; Writesonic leads on plan range and a defined 12-month window.",
+        "why": "On verified data (2026-08-08), Jasper is cheaper to start ($59/mo vs $79/mo, both annual billing) and pays 25% recurring commissions on Creator and Teams plans with no stated end date. Writesonic pays 20% recurring but only for 12 months, and its plans run to $399/mo. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
+        "bestForA": "Jasper: teams that want a lower starting price and open-ended 25% recurring commissions on Creator/Teams plans.",
+        "bestForB": "Writesonic: content teams that want a broad plan range (Swipe Starter to Growth) and a clearly defined 12-month recurring commission window."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$59/mo (Pro)", "toolBValue": "$79/mo (Swipe Starter)" },
+        { "rowLabel": "Monthly billing price", "toolAValue": "$69/mo", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Plan range", "toolAValue": "Creator, Teams, Business (Pro from $59/mo)", "toolBValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "25% recurring (Creator/Teams; not Business)", "toolBValue": "20% recurring" },
+        { "rowLabel": "Commission window", "toolAValue": "Not stated (paid per billing period)", "toolBValue": "12 months" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in official agreement", "toolBValue": "60 days" },
+        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Jasper or Writesonic?",
+          "answer": "Based on verified price and commission data (2026-08-08), Jasper starts lower ($59/mo vs $79/mo annual) and pays a higher recurring commission (25% vs 20%) with no stated end date. Writesonic has the wider plan range (up to $399/mo) and a defined 12-month commission window. Neither rating was verified at publish time."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Jasper or Writesonic?",
+          "answer": "Jasper: 25% recurring on Creator and Teams plans (Business excluded). Writesonic: 20% recurring for 12 months. Both verified on official pages on 2026-08-07."
+        },
+        {
+          "question": "Does Jasper or Writesonic have a free plan?",
+          "answer": "Not stated in the pricing data verified on 2026-08-07. Both tools list paid plans from $59/mo and $79/mo respectively."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
+        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
+        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "writesonic-vs-surfer-seo",
+      "h1": "Writesonic vs Surfer SEO (2026): Which Is Better for AI Content?",
+      "metaDescription": "Writesonic vs Surfer SEO compared on verified 2026 data: pricing (from $79/mo vs from $99/mo), commission structures (20% recurring x 12 months vs tiered one-time CPA), plans and features. Checked 2026-08-08.",
+      "toolASlug": "writesonic",
+      "toolBSlug": "surfer",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on the job - Writesonic is an AI writing tool with a recurring 20% x 12-month commission; Surfer is an SEO content optimization tool with one-time tiered CPA commissions.",
+        "why": "On verified data (2026-08-08), Writesonic starts at $79/mo (Swipe Starter, annual billing) and pays 20% recurring commissions for 12 months. Surfer starts at $99/mo (Standard, yearly billing) and pays tiered one-time CPA commissions: 75% of a monthly plan fee at Tier 1 up to 125% at Tier 3, or 15-25% on yearly plans. Writesonic's plans run to $399/mo; Surfer's AI article generation feature was introduced in 2023. Neither tool had a named-source rating verified at publish time, so this comparison is price and commission data only.",
+        "bestForA": "Writesonic: content teams that want an AI writing tool with a recurring 12-month commission.",
+        "bestForB": "Surfer: SEO professionals who need on-page content optimization and can take one-time CPA commissions."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Starting price (annual/yearly billing)", "toolAValue": "$79/mo (Swipe Starter)", "toolBValue": "$99/mo (Standard)" },
+        { "rowLabel": "Plan range", "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)", "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)" },
+        { "rowLabel": "Category", "toolAValue": "AI writing / content generation", "toolBValue": "SEO content optimization" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "20% recurring", "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1)" },
+        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "n/a - one-time CPA per new customer" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "60 days", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Writesonic or Surfer SEO?",
+          "answer": "On verified data (2026-08-08) they serve different jobs: Writesonic is an AI writing tool from $79/mo with 20% recurring commissions for 12 months; Surfer is an SEO content optimization tool from $99/mo with one-time tiered CPA commissions. Choose by workflow: content generation (Writesonic) versus on-page SEO optimization (Surfer)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Writesonic or Surfer SEO?",
+          "answer": "Writesonic pays 20% recurring for 12 months. Surfer pays one-time tiered CPA: 75% of a monthly plan fee at Tier 1, up to 125% at Tier 3, or 15-25% on yearly plans. Surfer's headline rate is higher but it does not recur; Writesonic's rate is lower but recurs for a year."
+        },
+        {
+          "question": "Do Writesonic or Surfer SEO have free plans?",
+          "answer": "Not stated in the pricing data verified on 2026-08-07. Both tools publish paid plans starting at $79/mo and $99/mo respectively."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
+        { "label": "Surfer SEO alternatives", "href": "/surfer-seo-alternatives/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" },
+        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "scalenut-vs-surfer-seo",
+      "h1": "Scalenut vs Surfer SEO (2026): Which SEO Content Tool Is Better?",
+      "metaDescription": "Scalenut vs Surfer SEO compared on verified 2026 data: pricing (from $59/mo vs from $99/mo), commissions (30-50% recurring for life vs tiered one-time CPA), and plan structure. Checked 2026-08-08.",
+      "toolASlug": "scalenut",
+      "toolBSlug": "surfer",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Scalenut on starting price and commission structure (30-50% recurring for life); Surfer on headline one-time CPA payout - the right pick depends on whether you want recurring revenue.",
+        "why": "On verified data (2026-08-08), Scalenut's Starter plan is $59/mo (a limited offer from $24/mo is noted on the pricing page) and its affiliate program pays 30-50% recurring commissions for life. Surfer's Standard plan is $99/mo (yearly billing) and its affiliate program pays tiered one-time CPA: 75% of a monthly plan fee at Tier 1 up to 125% at Tier 3, or 15-25% on yearly plans. Both sit in the AI SEO content space, but only Scalenut's commissions recur. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Scalenut: SEO-focused content teams that want a lower starting price and 30-50% lifetime recurring commissions.",
+        "bestForB": "Surfer: SEO professionals who are comfortable with one-time CPA commissions (up to 125% of a monthly plan at Tier 3)."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Starting price (annual/yearly billing)", "toolAValue": "$59/mo (Starter; limited offer from $24/mo)", "toolBValue": "$99/mo (Standard)" },
+        { "rowLabel": "Plan range", "toolAValue": "Starter, Plus ($89/mo), Professional ($199/mo)", "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)" },
+        { "rowLabel": "Category", "toolAValue": "AI SEO content platform", "toolBValue": "SEO content optimization" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "30-50% recurring", "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1, up to 125% / 25% at Tier 3)" },
+        { "rowLabel": "Commission window", "toolAValue": "Lifetime", "toolBValue": "n/a - one-time CPA per new customer" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in verified source", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Scalenut or Surfer SEO?",
+          "answer": "On verified data (2026-08-08), Scalenut starts lower ($59/mo vs $99/mo) and its affiliate program pays 30-50% recurring for life, while Surfer pays one-time tiered CPA (up to 125% of a monthly plan at Tier 3). For buyers, the choice is between an AI SEO content platform with lifetime recurring commissions (Scalenut) and an on-page SEO optimizer with a higher one-time payout (Surfer)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Scalenut or Surfer SEO?",
+          "answer": "Different structures: Scalenut pays 30-50% recurring for life; Surfer pays one-time tiered CPA of 75-125% of a monthly plan fee (or 15-25% on yearly plans) depending on affiliate tier. Recurring revenue favors Scalenut; headline one-time payout favors Surfer at higher tiers."
+        },
+        {
+          "question": "Do Scalenut or Surfer SEO have free plans?",
+          "answer": "Not stated in the pricing data verified on 2026-08-07. Both tools publish paid plans starting at $59/mo and $99/mo respectively."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
+        { "label": "Surfer SEO alternatives", "href": "/surfer-seo-alternatives/" },
+        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "jasper-vs-scalenut",
+      "h1": "Jasper vs Scalenut (2026): Which AI Writing Tool Is Better?",
+      "metaDescription": "Jasper vs Scalenut compared on verified 2026 data: pricing (both from $59/mo), commissions (25% recurring vs 30-50% recurring for life), plans and features. Checked 2026-08-08.",
+      "toolASlug": "jasper",
+      "toolBSlug": "scalenut",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Scalenut on commission structure (30-50% recurring for life versus Jasper's 25% recurring with Business excluded); starting prices are the same at $59/mo.",
+        "why": "On verified data (2026-08-08), both tools start at $59/mo on annual billing (Jasper Pro; Scalenut Starter, with a limited offer from $24/mo noted on the pricing page). Jasper pays 25% recurring on Creator and Teams plans, with Business excluded. Scalenut pays 30-50% recurring for life. Jasper is a dedicated AI writing assistant; Scalenut is an AI SEO content platform, so the better fit depends on whether you need SEO content tooling. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Jasper: teams that want a dedicated AI writing assistant with 25% recurring commissions on Creator/Teams plans.",
+        "bestForB": "Scalenut: SEO-focused content teams that want 30-50% recurring commissions for life."
+      },
+      "comparisonTable": [
+        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$59/mo (Pro)", "toolBValue": "$59/mo (Starter; limited offer from $24/mo)" },
+        { "rowLabel": "Monthly billing price", "toolAValue": "$69/mo", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Plan range", "toolAValue": "Creator, Teams, Business", "toolBValue": "Starter, Plus ($89/mo), Professional ($199/mo)" },
+        { "rowLabel": "Category", "toolAValue": "AI writing assistant", "toolBValue": "AI SEO content platform" },
+        { "rowLabel": "Affiliate commission", "toolAValue": "25% recurring (Creator/Teams; not Business)", "toolBValue": "30-50% recurring" },
+        { "rowLabel": "Commission window", "toolAValue": "Not stated (paid per billing period)", "toolBValue": "Lifetime" },
+        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in official agreement", "toolBValue": "Not stated in verified source" },
+        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
+        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Jasper or Scalenut?",
+          "answer": "On verified data (2026-08-08), both start at $59/mo (annual billing). Scalenut pays 30-50% recurring commissions for life; Jasper pays 25% recurring on Creator and Teams plans with Business excluded. The choice is mostly workflow: a dedicated AI writing assistant (Jasper) versus an AI SEO content platform (Scalenut)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Jasper or Scalenut?",
+          "answer": "Scalenut: 30-50% recurring for life. Jasper: 25% recurring on Creator and Teams plans (Business excluded). Both verified on official pages on 2026-08-07."
+        },
+        {
+          "question": "Do Jasper or Scalenut have free plans?",
+          "answer": "Not stated in the pricing data verified on 2026-08-07. Both tools publish paid plans starting at $59/mo."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
+        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
         { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
       ],
       "disclosure": true

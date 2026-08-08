@@ -7,7 +7,7 @@
       "metaDescription": "A data-driven comparison of AI writing tools with verified 2026 pricing and affiliate commission data: Jasper, Writesonic and Scalenut (checked 2026-08-07).",
       "category": "AI writing tools",
       "categorySlug": "ai-writing-tools",
-      "updatedAt": "2026-08-07",
+      "updatedAt": "2026-08-08",
       "intro": "This page compares AI writing tools using verified, dated data only: official pricing pages fetched on 2026-08-07, commission terms from each vendor's official affiliate agreement, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
       "itemSlugs": ["jasper", "writesonic", "scalenut"],
       "comparisonCriteria": [
@@ -37,7 +37,11 @@
       ],
       "relatedLinks": [
         { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
-        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" }
+        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
+        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
+        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
+        { "label": "Jasper vs Scalenut", "href": "/jasper-vs-scalenut/" }
       ],
       "disclosure": true
     }

@@ -3,7 +3,7 @@
     {
       "slug": "jasper-ai-alternatives",
       "h1": "Jasper AI Alternatives (2026): Compared on Verified Data",
-      "metaDescription": "Jasper AI alternatives compared on verified 2026 data: Writesonic (from $79/mo, 20% x 12 months) and Scalenut (from $59/mo, 30-50% for life), plus documented reasons users switch. Checked 2026-08-07.",
+      "metaDescription": "Jasper AI alternatives compared on verified 2026 data: Writesonic (from $79/mo, 20% x 12 months) and Scalenut (from $59/mo, 30-50% for life), plus documented reasons users switch. Checked 2026-08-08.",
       "primaryToolSlug": "jasper",
       "alternativeSlugs": ["writesonic", "scalenut"],
       "reasonWhy": [
@@ -40,9 +40,351 @@
       ],
       "relatedLinks": [
         { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
+        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
+        { "label": "Jasper vs Scalenut", "href": "/jasper-vs-scalenut/" },
         { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
       ],
-      "updatedAt": "2026-08-07",
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "writesonic-alternatives",
+      "h1": "Writesonic Alternatives (2026): Compared on Verified Data",
+      "metaDescription": "Writesonic alternatives compared on verified 2026 data: Jasper (from $59/mo, 25% recurring) and Scalenut (from $59/mo, 30-50% for life), plus documented reasons users compare. Checked 2026-08-08.",
+      "primaryToolSlug": "writesonic",
+      "alternativeSlugs": ["jasper", "scalenut"],
+      "reasonWhy": [
+        "Price: Writesonic's entry plan (Swipe Starter) starts at $79/mo on annual billing, while both verified alternatives publish a starting price in the same band - Jasper from $59/mo and Scalenut from $59/mo (with a limited offer from $24/mo noted on its pricing page).",
+        "Tool-selection demand: buyers actively ask for writing-tool recommendations. 'Ask HN: What AI writing tool do you use for blog posts?' (Hacker News, 2023) is the request this page responds to with dated, verified data.",
+        "Output uniformity: AI-generated copy can start to look the same across tools. As one Hacker News commenter put it in 2024, \"Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###\". Teams that hit this wall compare tools that differ in plan structure or workflow.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" This page publishes only dated, verified price and commission data.",
+        "Affiliate economics: for publishers, Writesonic pays 20% recurring for 12 months, Jasper pays 25% recurring on Creator/Teams plans (Business excluded), and Scalenut pays 30-50% recurring for life. Different programs suit different traffic profiles."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "Ask HN: What AI writing tool do you use for blog posts?",
+          "source": "Hacker News, 2023-09-16",
+          "url": "https://news.ycombinator.com/item?id=37532629"
+        },
+        {
+          "quote": "Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###",
+          "source": "Hacker News, 2024-10-11",
+          "url": "https://news.ycombinator.com/item?id=41808868"
+        },
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Writesonic alternatives?",
+          "answer": "In this dataset (verified 2026-08-07): Jasper, from $59/mo with 25% recurring commissions on Creator and Teams plans (Business excluded), and Scalenut, from $59/mo with 30-50% recurring commissions for life. Ratings were not verified at publish time."
+        },
+        {
+          "question": "Is there a free Writesonic alternative?",
+          "answer": "No free tier was verified for Writesonic or for the alternatives in this dataset on 2026-08-07. All three tools publish paid plans starting at $79/mo or $59/mo."
+        },
+        {
+          "question": "Why do people switch away from Writesonic?",
+          "answer": "The documented reasons in this dataset: entry price, higher-tier plan costs (up to $399/mo), output uniformity concerns about AI-generated copy (cited 2024 Hacker News complaint), and distrust of review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
+        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "scalenut-alternatives",
+      "h1": "Scalenut Alternatives (2026): Compared on Verified Data",
+      "metaDescription": "Scalenut alternatives compared on verified 2026 data: Surfer (from $99/mo, tiered one-time CPA), Jasper and Writesonic, plus documented reasons users compare SEO content tools. Checked 2026-08-08.",
+      "primaryToolSlug": "scalenut",
+      "alternativeSlugs": ["surfer", "jasper", "writesonic"],
+      "reasonWhy": [
+        "SEO-content pricing: the cost of AI SEO content tools gets scrutinized. A Hacker News commenter asked in 2023 about Surfer's AI writer: \"But is it worth paying 29 times more per article than other AI Copywriters?\" The same price-per-article question applies when comparing Scalenut (from $59/mo) with Surfer (from $99/mo).",
+        "Commission structure: Scalenut pays 30-50% recurring for life; Surfer pays one-time tiered CPA (75% of a monthly plan at Tier 1 up to 125% at Tier 3). Publishers comparing these tools weigh lifetime recurring revenue against a higher one-time payout.",
+        "Output uniformity: AI-generated copy can start to look the same across tools. As one Hacker News commenter put it in 2024, \"Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###\".",
+        "AI-SEO economics: the economics of cheap AI SEO content is an active debate - see the 2026 Hacker News discussion of an 'experiment in cheap AI SEO' (linked below). Teams evaluating Scalenut-style platforms are often the same buyers reading that thread."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "So Surfer SEO released their AI last week... But is it worth paying 29 times more per article than other AI Copywriters?",
+          "source": "Hacker News, 2023-05-31",
+          "url": "https://news.ycombinator.com/item?id=36135616"
+        },
+        {
+          "quote": "Everywhere the same phrases, words, and patterns. Sometimes people even leave the GPT-generated ** and the ###",
+          "source": "Hacker News, 2024-10-11",
+          "url": "https://news.ycombinator.com/item?id=41808868"
+        },
+        {
+          "quote": "Show HN: Aventos - An experiment in cheap AI SEO",
+          "source": "Hacker News, 2026-01-16",
+          "url": "https://news.ycombinator.com/item?id=46642490"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Scalenut alternatives?",
+          "answer": "In this dataset (verified 2026-08-07): Surfer, from $99/mo with tiered one-time CPA commissions; Jasper, from $59/mo with 25% recurring commissions on Creator and Teams plans; and Writesonic, from $79/mo with 20% recurring commissions for 12 months. Ratings were not verified at publish time."
+        },
+        {
+          "question": "Is there a free Scalenut alternative?",
+          "answer": "No free tier was verified for Scalenut or for the alternatives in this dataset on 2026-08-07. All four tools publish paid plans starting at $59/mo, $79/mo or $99/mo."
+        },
+        {
+          "question": "Why do people switch away from Scalenut?",
+          "answer": "The documented reasons in this dataset: price-per-article concerns about SEO AI tools (cited 2023 Hacker News complaint), output uniformity concerns (cited 2024 Hacker News complaint), and the active debate about AI-SEO content economics (cited 2026 Hacker News thread). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Scalenut vs Surfer SEO", "href": "/scalenut-vs-surfer-seo/" },
+        { "label": "Surfer SEO alternatives", "href": "/surfer-seo-alternatives/" },
+        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "surfer-seo-alternatives",
+      "h1": "Surfer SEO Alternatives (2026): Compared on Verified Data",
+      "metaDescription": "Surfer SEO alternatives compared on verified 2026 data: Scalenut (from $59/mo, 30-50% recurring for life), Jasper and Writesonic, plus documented reasons users switch. Checked 2026-08-08.",
+      "primaryToolSlug": "surfer",
+      "alternativeSlugs": ["scalenut", "jasper", "writesonic"],
+      "reasonWhy": [
+        "Price: Surfer's Standard plan is $99/mo (yearly billing). Scalenut's Starter is $59/mo, with a limited offer from $24/mo noted on its pricing page. For teams that mainly need SEO content generation, the price gap is the most common reason to compare.",
+        "AI writer pricing complaint: \"So Surfer SEO released their AI last week... But is it worth paying 29 times more per article than other AI Copywriters?\" - Hacker News, 2023. This is the documented complaint behind many 'Surfer SEO alternatives' searches.",
+        "Commission structure: Surfer pays one-time tiered CPA (75% of a monthly plan at Tier 1 up to 125% at Tier 3); Scalenut pays 30-50% recurring for life. Publishers weigh recurring revenue when choosing which tool to promote.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" This page publishes only dated, verified price and commission data."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "So Surfer SEO released their AI last week... But is it worth paying 29 times more per article than other AI Copywriters?",
+          "source": "Hacker News, 2023-05-31",
+          "url": "https://news.ycombinator.com/item?id=36135616"
+        },
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Surfer SEO alternatives?",
+          "answer": "In this dataset (verified 2026-08-07): Scalenut, from $59/mo with 30-50% recurring commissions for life; Jasper, from $59/mo with 25% recurring commissions on Creator and Teams plans; and Writesonic, from $79/mo with 20% recurring commissions for 12 months. Ratings were not verified at publish time."
+        },
+        {
+          "question": "Is there a free Surfer SEO alternative?",
+          "answer": "No free tier was verified for Surfer or for the alternatives in this dataset on 2026-08-07. All four tools publish paid plans starting at $59/mo, $79/mo or $99/mo."
+        },
+        {
+          "question": "Why do people switch away from Surfer SEO?",
+          "answer": "The documented reasons in this dataset: the price of Surfer's AI writer relative to other AI copywriters (cited 2023 Hacker News complaint), one-time CPA versus recurring commission structures, and distrust of review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "Scalenut vs Surfer SEO", "href": "/scalenut-vs-surfer-seo/" },
+        { "label": "Writesonic vs Surfer SEO", "href": "/writesonic-vs-surfer-seo/" },
+        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
+        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
+        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "pictory-alternatives",
+      "h1": "Pictory Alternatives (2026): Verified Data and Current Status",
+      "metaDescription": "Pictory alternatives: verified pricing (from $25/mo annual), commission data (up to 50% recurring) and the current status of verified alternatives in this dataset. Checked 2026-08-08.",
+      "primaryToolSlug": "pictory",
+      "alternativeSlugs": [],
+      "_todo": "No verified AI video generator alternatives exist in the dataset yet. Do NOT fabricate video tools; re-check at the next quarterly refresh sprint (brief section 5) and add programs only after verification against official pages.",
+      "reasonWhy": [
+        "Price: Pictory's Starter plan is $25/mo on annual billing ($29 monthly). 'Free' is the top demand modifier for this keyword ('pictory alternatives free' observed in autocomplete, 2026-08-07), and none of the verified programs in this dataset currently publishes a free tier.",
+        "Category demand: 'pictory alternatives', 'pictory alternatives free' and 'pictory ai alternatives' are all observed autocomplete patterns (2026-08-07), so the search intent is real. This page exists to serve that intent with verified data only.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" Readers also push back on padded lists - see the 2025 Hacker News comment against affiliate-style ranked roundups (linked below).",
+        "Status: as of 2026-08-08, none of the other verified programs in this dataset are direct AI video generator alternatives to Pictory. Rather than list unverified or out-of-category tools, this list stays empty until more video-generator programs pass verification."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        },
+        {
+          "quote": "No more 'the top 25 hats in July 2025' [listicles]",
+          "source": "Hacker News, 2025-07-24",
+          "url": "https://news.ycombinator.com/item?id=44669367"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Pictory alternatives?",
+          "answer": "As of 2026-08-08, this dataset has no verified AI video generator alternatives to Pictory. This site publishes only verified programs, so the list will be updated when more video-generator affiliate programs pass verification (checked quarterly)."
+        },
+        {
+          "question": "Is there a free Pictory alternative?",
+          "answer": "No free tier was verified for Pictory or for any other program in this dataset on 2026-08-07."
+        },
+        {
+          "question": "Why do people look for Pictory alternatives?",
+          "answer": "Documented reasons include price and free-tier demand ('pictory alternatives free' observed in autocomplete), plus distrust of padded affiliate lists (cited 2025 Hacker News comment) and review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "AI video generators hub", "href": "/ai-video-generators/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "brand24-alternatives",
+      "h1": "Brand24 Alternatives (2026): Verified Data and Current Status",
+      "metaDescription": "Brand24 alternatives: verified pricing (Individual from $199/mo annual), commission data (up to 30% recurring) and the current status of verified alternatives in this dataset. Checked 2026-08-08.",
+      "primaryToolSlug": "brand24",
+      "alternativeSlugs": [],
+      "_todo": "No verified social media monitoring alternatives exist in the dataset yet. Do NOT fabricate monitoring tools; re-check at the next quarterly refresh sprint (brief section 5) and add programs only after verification against official pages.",
+      "reasonWhy": [
+        "Price: Brand24's Individual plan is $249/mo ($199/mo on annual billing), Team is $349/mo and Pro is $499/mo. It is the most expensive tool in this dataset, and price is the most common trigger for 'brand24 alternatives' searches ('brand24 alternatives' and 'brand24 alternatives reddit' observed in autocomplete, 2026-08-07).",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" Readers also push back on padded lists - see the 2025 Hacker News comment against affiliate-style ranked roundups (linked below).",
+        "Status: as of 2026-08-08, none of the other verified programs in this dataset are social media monitoring alternatives to Brand24. Rather than list unverified or out-of-category tools, this list stays empty until more monitoring programs pass verification."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        },
+        {
+          "quote": "No more 'the top 25 hats in July 2025' [listicles]",
+          "source": "Hacker News, 2025-07-24",
+          "url": "https://news.ycombinator.com/item?id=44669367"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best Brand24 alternatives?",
+          "answer": "As of 2026-08-08, this dataset has no verified social media monitoring alternatives to Brand24. This site publishes only verified programs, so the list will be updated when more monitoring affiliate programs pass verification (checked quarterly)."
+        },
+        {
+          "question": "Is there a free Brand24 alternative?",
+          "answer": "No free tier was verified for Brand24 or for any other program in this dataset on 2026-08-07."
+        },
+        {
+          "question": "Why do people look for Brand24 alternatives?",
+          "answer": "Documented reasons include price (Brand24 is the most expensive tool in this dataset at $199-$499/mo) and distrust of padded affiliate lists (cited 2025 Hacker News comment) and review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "AI social media tools hub", "href": "/ai-social-media-tools/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "krispcall-alternatives",
+      "h1": "KrispCall Alternatives (2026): Verified Data and Current Status",
+      "metaDescription": "KrispCall alternatives: verified pricing (from $12/mo), commission data (30% lifetime) and the current status of verified alternatives in this dataset. Checked 2026-08-08.",
+      "primaryToolSlug": "krispcall",
+      "alternativeSlugs": [],
+      "_todo": "No verified AI phone system alternatives exist in the dataset yet. Do NOT fabricate phone-system tools; re-check at the next quarterly refresh sprint (brief section 5) and add programs only after verification against official pages.",
+      "reasonWhy": [
+        "Category demand: 'krispcall alternatives' is an observed autocomplete pattern (2026-08-07), and 'best ai phone system for small business' is in the keyword cluster. Buyers comparing AI phone systems are evaluating features beyond price - KrispCall is the lowest-priced tool in this dataset (from $12/mo), so the comparison drivers are features and workflow fit rather than entry price.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" Readers also push back on padded lists - see the 2025 Hacker News comment against affiliate-style ranked roundups (linked below).",
+        "Status: as of 2026-08-08, none of the other verified programs in this dataset are AI phone system alternatives to KrispCall. Rather than list unverified or out-of-category tools, this list stays empty until more phone-system programs pass verification."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        },
+        {
+          "quote": "No more 'the top 25 hats in July 2025' [listicles]",
+          "source": "Hacker News, 2025-07-24",
+          "url": "https://news.ycombinator.com/item?id=44669367"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best KrispCall alternatives?",
+          "answer": "As of 2026-08-08, this dataset has no verified AI phone system alternatives to KrispCall. This site publishes only verified programs, so the list will be updated when more phone-system affiliate programs pass verification (checked quarterly)."
+        },
+        {
+          "question": "Is there a free KrispCall alternative?",
+          "answer": "No free tier was verified for KrispCall or for any other program in this dataset on 2026-08-07."
+        },
+        {
+          "question": "Why do people look for KrispCall alternatives?",
+          "answer": "Documented reasons include category demand ('krispcall alternatives' observed in autocomplete) and distrust of padded affiliate lists (cited 2025 Hacker News comment) and review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "AI phone systems hub", "href": "/ai-phone-systems/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "updatedAt": "2026-08-08",
+      "disclosure": true
+    },
+    {
+      "slug": "meetgeek-alternatives",
+      "h1": "MeetGeek Alternatives (2026): Verified Data and Current Status",
+      "metaDescription": "MeetGeek alternatives: verified commission data (30% recurring), pricing status, and the current status of verified alternatives in this dataset. Checked 2026-08-08.",
+      "primaryToolSlug": "meetgeek",
+      "alternativeSlugs": [],
+      "_todo": "No verified AI meeting recorder/note-taker alternatives exist in the dataset yet. Do NOT fabricate meeting tools; re-check at the next quarterly refresh sprint (brief section 5) and add programs only after verification against official pages.",
+      "reasonWhy": [
+        "Category demand: 'best ai meeting recorder', 'best ai meeting note taker' and related variants are observed autocomplete patterns with 10 variants (2026-08-07); note-taking, recording and transcription are the most-searched meeting-AI intents, and this page serves the alternatives intent for that cluster.",
+        "Pricing transparency: MeetGeek's starting price was not verified at publish time, so buyers cannot anchor on a published entry price. This page will not invent one - the About section below states that pricing was not verified.",
+        "Trust in reviews: many buyers are tired of roundups that read like sales pages. A widely-upvoted Hacker News complaint from 2017: \"I used to wonder why I'd find reviews that feel like they are trying to 'sell' me something instead of providing an honest review.\" Readers also push back on padded lists - see the 2025 Hacker News comment against affiliate-style ranked roundups (linked below).",
+        "Status: as of 2026-08-08, none of the other verified programs in this dataset are AI meeting recorder/note-taker alternatives to MeetGeek. Rather than list unverified or out-of-category tools, this list stays empty until more meeting-tool programs pass verification."
+      ],
+      "switchEvidence": [
+        {
+          "quote": "I used to wonder why I'd find reviews that feel like they are trying to \"sell\" me something instead of providing an honest review. It's extremely frustrating",
+          "source": "Hacker News, 2017-11-07",
+          "url": "https://news.ycombinator.com/item?id=15645565"
+        },
+        {
+          "quote": "No more 'the top 25 hats in July 2025' [listicles]",
+          "source": "Hacker News, 2025-07-24",
+          "url": "https://news.ycombinator.com/item?id=44669367"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the best MeetGeek alternatives?",
+          "answer": "As of 2026-08-08, this dataset has no verified AI meeting recorder or note-taker alternatives to MeetGeek. This site publishes only verified programs, so the list will be updated when more meeting-tool affiliate programs pass verification (checked quarterly)."
+        },
+        {
+          "question": "Is there a free MeetGeek alternative?",
+          "answer": "No free tier was verified for MeetGeek or for any other program in this dataset on 2026-08-07."
+        },
+        {
+          "question": "Why do people look for MeetGeek alternatives?",
+          "answer": "Documented reasons include strong category demand for meeting note-takers and recorders (observed autocomplete variants, 2026-08-07), unverified starting price at publish time, and distrust of padded affiliate lists (cited 2025 Hacker News comment) and review content that feels like advertising (cited 2017 Hacker News complaint). Full quotes and links are on this page."
+        }
+      ],
+      "relatedLinks": [
+        { "label": "AI meeting recorders hub", "href": "/ai-meeting-recorders/" },
+        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
+        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+      ],
+      "updatedAt": "2026-08-08",
       "disclosure": true
     }
   ]

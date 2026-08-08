@@ -4,8 +4,8 @@
       "slug": "best/ai-tools",
       "title": "Best AI Tools (2026): Data-Driven Roundups",
       "h1": "Best AI Tools (2026)",
-      "metaDescription": "Index of data-driven AI tool roundups with verified pricing and affiliate commission data, all checked 2026-08-07.",
-      "intro": "This hub indexes the best-of category pages in this dataset. Every page is generated from the same typed dataset, and every price and commission figure carries a verification date.",
+      "metaDescription": "Index of data-driven AI tool roundups with verified pricing and affiliate commission data, all checked 2026-08-08.",
+      "intro": "This hub indexes the best-of category pages and category hubs in this dataset. Every page is generated from the same typed dataset, and every price and commission figure carries a verification date.",
       "sections": [
         {
           "heading": "Published roundups",
@@ -16,26 +16,67 @@
               "description": "Jasper, Writesonic and Scalenut compared on verified price and commission data."
             }
           ],
-          "planned": [
-            "AI video generators",
-            "AI meeting recorders",
-            "AI content generators",
-            "AI phone systems",
-            "AI chatbots",
-            "AI social media tools",
-            "AI SEO tools",
-            "AI headshot generators",
-            "AI code tools"
-          ]
+          "planned": []
+        },
+        {
+          "heading": "Category hubs",
+          "links": [
+            {
+              "label": "AI content generators",
+              "href": "/ai-content-generators/",
+              "description": "Writesonic, Scalenut and Jasper - verified tools in this category."
+            },
+            {
+              "label": "AI video generators",
+              "href": "/ai-video-generators/",
+              "description": "Pictory - partial; more tools being verified."
+            },
+            {
+              "label": "AI meeting recorders",
+              "href": "/ai-meeting-recorders/",
+              "description": "MeetGeek - partial; more tools being verified."
+            },
+            {
+              "label": "AI phone systems",
+              "href": "/ai-phone-systems/",
+              "description": "KrispCall - partial; more tools being verified."
+            },
+            {
+              "label": "AI SEO tools",
+              "href": "/ai-seo-tools/",
+              "description": "Surfer - partial; more tools being verified."
+            },
+            {
+              "label": "AI chatbots",
+              "href": "/ai-chatbots/",
+              "description": "Category data being verified - pages coming soon."
+            },
+            {
+              "label": "AI social media tools",
+              "href": "/ai-social-media-tools/",
+              "description": "Category data being verified - pages coming soon."
+            },
+            {
+              "label": "AI headshot generators",
+              "href": "/ai-headshot-generators/",
+              "description": "Category data being verified - pages coming soon."
+            },
+            {
+              "label": "AI code tools",
+              "href": "/ai-code-tools/",
+              "description": "Category data being verified - pages coming soon."
+            }
+          ],
+          "planned": []
         }
       ],
-      "updatedAt": "2026-08-07"
+      "updatedAt": "2026-08-08"
     },
     {
       "slug": "alternatives",
       "title": "AI Tool Alternatives (2026)",
       "h1": "AI Tool Alternatives (2026)",
-      "metaDescription": "Index of AI tool alternatives pages with verified pricing, recurring commissions and documented reasons users switch (checked 2026-08-07).",
+      "metaDescription": "Index of AI tool alternatives pages with verified pricing, recurring commissions and documented reasons users switch (checked 2026-08-08).",
       "intro": "Alternatives pages answer a specific search intent: 'what else can I use instead of X?'. Each page compares against the primary tool using the same verified dataset used everywhere on this site.",
       "sections": [
         {
@@ -45,18 +86,383 @@
               "label": "Jasper AI alternatives",
               "href": "/jasper-ai-alternatives/",
               "description": "Writesonic and Scalenut with honest, dated comparison data."
+            },
+            {
+              "label": "Writesonic alternatives",
+              "href": "/writesonic-alternatives/",
+              "description": "Jasper and Scalenut with honest, dated comparison data."
+            },
+            {
+              "label": "Scalenut alternatives",
+              "href": "/scalenut-alternatives/",
+              "description": "Surfer, Jasper and Writesonic with honest, dated comparison data."
+            },
+            {
+              "label": "Surfer SEO alternatives",
+              "href": "/surfer-seo-alternatives/",
+              "description": "Scalenut, Jasper and Writesonic with honest, dated comparison data."
+            },
+            {
+              "label": "Pictory alternatives",
+              "href": "/pictory-alternatives/",
+              "description": "Verified status; no direct video-generator alternative verified yet."
+            },
+            {
+              "label": "Brand24 alternatives",
+              "href": "/brand24-alternatives/",
+              "description": "Verified status; no direct monitoring alternative verified yet."
+            },
+            {
+              "label": "KrispCall alternatives",
+              "href": "/krispcall-alternatives/",
+              "description": "Verified status; no direct phone-system alternative verified yet."
+            },
+            {
+              "label": "MeetGeek alternatives",
+              "href": "/meetgeek-alternatives/",
+              "description": "Verified status; no direct meeting-tool alternative verified yet."
             }
           ],
-          "planned": [
-            "Pictory alternatives",
-            "Surfer SEO alternatives",
-            "Brand24 alternatives",
-            "KrispCall alternatives",
-            "Scalenut alternatives"
-          ]
+          "planned": []
+        },
+        {
+          "heading": "Comparisons",
+          "links": [
+            {
+              "label": "Writesonic vs Jasper",
+              "href": "/writesonic-vs-jasper/",
+              "description": "Side-by-side comparison on verified price and commission data."
+            },
+            {
+              "label": "Jasper vs Writesonic",
+              "href": "/jasper-vs-writesonic/",
+              "description": "The same comparison from Jasper's side."
+            },
+            {
+              "label": "Writesonic vs Surfer SEO",
+              "href": "/writesonic-vs-surfer-seo/",
+              "description": "AI writing versus SEO content optimization."
+            },
+            {
+              "label": "Scalenut vs Surfer SEO",
+              "href": "/scalenut-vs-surfer-seo/",
+              "description": "Two SEO content tools compared on verified data."
+            },
+            {
+              "label": "Jasper vs Scalenut",
+              "href": "/jasper-vs-scalenut/",
+              "description": "AI writing assistant versus AI SEO content platform."
+            }
+          ],
+          "planned": []
         }
       ],
-      "updatedAt": "2026-08-07"
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-content-generators",
+      "title": "AI Content Generators (2026): Verified Tools Hub",
+      "h1": "AI Content Generators (2026)",
+      "metaDescription": "AI content generator tools in this dataset: Writesonic, Scalenut and Jasper with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI content generators that have passed verification in this dataset. Every price and commission figure carries a verification date; no tool is listed without verified data.",
+      "sections": [
+        {
+          "heading": "Tools in this category",
+          "links": [
+            {
+              "label": "Writesonic - AI writing and content generation",
+              "href": "/writesonic-alternatives/",
+              "description": "From $79/mo (annual); 20% recurring commission for 12 months. Verified data and alternatives."
+            },
+            {
+              "label": "Scalenut - AI SEO content platform",
+              "href": "/scalenut-alternatives/",
+              "description": "From $59/mo (limited offer from $24/mo); 30-50% recurring commission for life. Verified data and alternatives."
+            },
+            {
+              "label": "Jasper - AI writing assistant",
+              "href": "/jasper-ai-alternatives/",
+              "description": "From $59/mo (annual); 25% recurring commission on Creator and Teams plans. Verified data and alternatives."
+            }
+          ],
+          "planned": []
+        },
+        {
+          "heading": "Best-of page",
+          "links": [
+            {
+              "label": "Best AI writing tools",
+              "href": "/best/ai-writing-tools/",
+              "description": "Jasper, Writesonic and Scalenut compared on verified price and commission data."
+            }
+          ],
+          "planned": []
+        },
+        {
+          "heading": "Comparisons",
+          "links": [
+            {
+              "label": "Writesonic vs Jasper",
+              "href": "/writesonic-vs-jasper/",
+              "description": "Side-by-side comparison on verified data."
+            },
+            {
+              "label": "Jasper vs Writesonic",
+              "href": "/jasper-vs-writesonic/",
+              "description": "The same comparison from Jasper's side."
+            },
+            {
+              "label": "Jasper vs Scalenut",
+              "href": "/jasper-vs-scalenut/",
+              "description": "AI writing assistant versus AI SEO content platform."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-video-generators",
+      "title": "AI Video Generators (2026): Verified Tools Hub",
+      "h1": "AI Video Generators (2026)",
+      "metaDescription": "AI video generator tools in this dataset: Pictory (partial - more tools being verified) with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI video generators that have passed verification in this dataset. Pictory is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "sections": [
+        {
+          "heading": "Tools in this category",
+          "links": [
+            {
+              "label": "Pictory - AI video generation",
+              "href": "/pictory-alternatives/",
+              "description": "From $25/mo (annual; $29 monthly); up to 50% recurring commission. Verified data and current alternatives status."
+            }
+          ],
+          "planned": ["More AI video generators (being verified)"]
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "Pictory alternatives",
+              "href": "/pictory-alternatives/",
+              "description": "Verified status and documented reasons users compare."
+            },
+            {
+              "label": "Best AI tools index",
+              "href": "/best/ai-tools/",
+              "description": "Every AI tool category hub in one place."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-meeting-recorders",
+      "title": "AI Meeting Recorders (2026): Verified Tools Hub",
+      "h1": "AI Meeting Recorders (2026)",
+      "metaDescription": "AI meeting recorder and note-taker tools in this dataset: MeetGeek (partial - more tools being verified) with dated commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI meeting recorders and note-takers that have passed verification in this dataset. MeetGeek is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "sections": [
+        {
+          "heading": "Tools in this category",
+          "links": [
+            {
+              "label": "MeetGeek - AI meeting recorder and note-taker",
+              "href": "/meetgeek-alternatives/",
+              "description": "30% recurring commission; pricing not verified at publish time. Verified data and current alternatives status."
+            }
+          ],
+          "planned": ["More AI meeting recorders (being verified)"]
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "MeetGeek alternatives",
+              "href": "/meetgeek-alternatives/",
+              "description": "Verified status and documented reasons users compare."
+            },
+            {
+              "label": "Best AI tools index",
+              "href": "/best/ai-tools/",
+              "description": "Every AI tool category hub in one place."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-phone-systems",
+      "title": "AI Phone Systems (2026): Verified Tools Hub",
+      "h1": "AI Phone Systems (2026)",
+      "metaDescription": "AI phone system tools in this dataset: KrispCall (partial - more tools being verified) with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI phone systems that have passed verification in this dataset. KrispCall is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "sections": [
+        {
+          "heading": "Tools in this category",
+          "links": [
+            {
+              "label": "KrispCall - AI phone system for small business",
+              "href": "/krispcall-alternatives/",
+              "description": "From $12/mo; 30% lifetime recurring commission. Verified data and current alternatives status."
+            }
+          ],
+          "planned": ["More AI phone systems (being verified)"]
+        },
+        {
+          "heading": "Related pages",
+          "links": [
+            {
+              "label": "KrispCall alternatives",
+              "href": "/krispcall-alternatives/",
+              "description": "Verified status and documented reasons users compare."
+            },
+            {
+              "label": "Best AI tools index",
+              "href": "/best/ai-tools/",
+              "description": "Every AI tool category hub in one place."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-seo-tools",
+      "title": "AI SEO Tools (2026): Verified Tools Hub",
+      "h1": "AI SEO Tools (2026)",
+      "metaDescription": "AI SEO tools in this dataset: Surfer (partial - more tools being verified) with dated pricing and commission data (checked 2026-08-08).",
+      "intro": "This hub indexes AI SEO tools that have passed verification in this dataset. Surfer is the only verified tool in this category today; more programs are being verified and will be added when their data is confirmed.",
+      "sections": [
+        {
+          "heading": "Tools in this category",
+          "links": [
+            {
+              "label": "Surfer - SEO content optimization",
+              "href": "/surfer-seo-alternatives/",
+              "description": "From $99/mo (yearly); tiered one-time CPA commissions. Verified data and current alternatives status."
+            }
+          ],
+          "planned": ["More AI SEO tools (being verified)"]
+        },
+        {
+          "heading": "Comparisons and alternatives",
+          "links": [
+            {
+              "label": "Scalenut vs Surfer SEO",
+              "href": "/scalenut-vs-surfer-seo/",
+              "description": "Two SEO content tools compared on verified data."
+            },
+            {
+              "label": "Writesonic vs Surfer SEO",
+              "href": "/writesonic-vs-surfer-seo/",
+              "description": "AI writing versus SEO content optimization."
+            },
+            {
+              "label": "Surfer SEO alternatives",
+              "href": "/surfer-seo-alternatives/",
+              "description": "Scalenut, Jasper and Writesonic with honest, dated comparison data."
+            },
+            {
+              "label": "Best AI tools index",
+              "href": "/best/ai-tools/",
+              "description": "Every AI tool category hub in one place."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-chatbots",
+      "title": "AI Chatbots (2026): Category Hub",
+      "h1": "AI Chatbots (2026)",
+      "metaDescription": "AI chatbot tools category hub. Category data being verified - pages coming soon.",
+      "intro": "Category data being verified - pages coming soon. This hub will list AI chatbot tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "sections": [
+        {
+          "heading": "Status",
+          "links": [
+            {
+              "label": "Back to all AI tool categories",
+              "href": "/best/ai-tools/",
+              "description": "Index of every AI tool category hub."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-social-media-tools",
+      "title": "AI Social Media Tools (2026): Category Hub",
+      "h1": "AI Social Media Tools (2026)",
+      "metaDescription": "AI social media tools category hub. Category data being verified - pages coming soon.",
+      "intro": "Category data being verified - pages coming soon. This hub will list AI social media tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "sections": [
+        {
+          "heading": "Status",
+          "links": [
+            {
+              "label": "Back to all AI tool categories",
+              "href": "/best/ai-tools/",
+              "description": "Index of every AI tool category hub."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-headshot-generators",
+      "title": "AI Headshot Generators (2026): Category Hub",
+      "h1": "AI Headshot Generators (2026)",
+      "metaDescription": "AI headshot generator tools category hub. Category data being verified - pages coming soon.",
+      "intro": "Category data being verified - pages coming soon. This hub will list AI headshot generator tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "sections": [
+        {
+          "heading": "Status",
+          "links": [
+            {
+              "label": "Back to all AI tool categories",
+              "href": "/best/ai-tools/",
+              "description": "Index of every AI tool category hub."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
+    },
+    {
+      "slug": "ai-code-tools",
+      "title": "AI Code Tools (2026): Category Hub",
+      "h1": "AI Code Tools (2026)",
+      "metaDescription": "AI code tools category hub. Category data being verified - pages coming soon.",
+      "intro": "Category data being verified - pages coming soon. This hub will list AI code tools with the same verified, dated price and commission data used across this site. No unverified tools are published.",
+      "sections": [
+        {
+          "heading": "Status",
+          "links": [
+            {
+              "label": "Back to all AI tool categories",
+              "href": "/best/ai-tools/",
+              "description": "Index of every AI tool category hub."
+            }
+          ],
+          "planned": []
+        }
+      ],
+      "updatedAt": "2026-08-08"
     }
   ]
 }

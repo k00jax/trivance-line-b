@@ -4,7 +4,7 @@
  *
  * Emits into out/:
  *   sitemap-index.xml         - index of the three family segments
- *   sitemap-best.xml          - Family A roundups + /best/ hub
+ *   sitemap-best.xml         - Family A roundups + all hub pages (/best/ index + category hubs)
  *   sitemap-vs.xml            - Family B comparisons
  *   sitemap-alternatives.xml  - Family C alternatives + /alternatives/ hub
  *   robots.txt                - references sitemap-index.xml
@@ -67,8 +67,10 @@ const families = [
   {
     file: 'sitemap-best.xml',
     entries: [
+      // All hub pages except the /alternatives/ hub (which lives in the
+      // alternatives segment): the /best/ai-tools/ index + category hubs.
       ...hubPages
-        .filter((h) => h.slug.startsWith('best/'))
+        .filter((h) => h.slug !== 'alternatives')
         .map((h) => ({ url: loc(`/${h.slug}/`), lastmod: h.updatedAt })),
       ...bestPages.map((p) => ({ url: loc(`/best/${p.slug}/`), lastmod: p.updatedAt })),
     ],

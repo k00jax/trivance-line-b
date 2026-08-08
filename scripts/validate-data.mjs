@@ -98,6 +98,42 @@ for (const page of altPages) {
   }
 }
 
+// No duplicate slugs: registry keys must be unique (a collision would silently
+// overwrite an earlier page in the catch-all router's Map).
+const seenKeys = new Map();
+const recordKey = (key, source) => {
+  if (seenKeys.has(key)) {
+    errors.push(`duplicate page slug "${key}" (registered from ${seenKeys.get(key)} and ${source})`);
+  } else {
+    seenKeys.set(key, source);
+  }
+};
+for (const page of bestPages) recordKey(`best/${page.slug}`, 'best.json');
+for (const page of vsPages) recordKey(page.slug, 'vs.json');
+for (const page of altPages) recordKey(page.slug, 'alternatives.json');
+for (const page of hubPages) recordKey(page.slug, 'hubs.json');
+
+// No dangling internal links: every hub section link and every page
+// relatedLinks href must resolve to a registered page.
+const normalizeHref = (href) => String(href || '').replace(/^\/+|\/+$/g, '');
+const checkInternalLinks = (label, page, links) => {
+  for (const link of links || []) {
+    const key = normalizeHref(link.href);
+    if (!key) continue;
+    if (!seenKeys.has(key)) {
+      errors.push(`${label}:${page.slug} internal link "${link.href}" does not resolve to a registered page`);
+    }
+  }
+};
+for (const page of hubPages) {
+  for (const section of page.sections || []) {
+    checkInternalLinks('hubs.json', page, section.links);
+  }
+}
+for (const page of bestPages) checkInternalLinks('best.json', page, page.relatedLinks);
+for (const page of vsPages) checkInternalLinks('vs.json', page, page.relatedLinks);
+for (const page of altPages) checkInternalLinks('alternatives.json', page, page.relatedLinks);
+
 if (errors.length > 0) {
   console.error('DATA VALIDATION FAILED:');
   for (const error of errors) console.error(`  - ${error}`);
