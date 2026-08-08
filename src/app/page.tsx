@@ -1,6 +1,30 @@
 import Link from 'next/link';
 
-/** Homepage - Phase 1 engine preview. No affiliate links here. */
+/**
+ * Homepage — full site index rendered from the dataset at build time.
+ * No affiliate links here (hub page). Lists every registered page so
+ * crawlers entering at / discover the whole site.
+ */
+import bestData from '@/data/pages/best.json';
+import vsData from '@/data/pages/vs.json';
+import alternativesData from '@/data/pages/alternatives.json';
+import hubsData from '@/data/pages/hubs.json';
+
+interface LinkRec {
+  label: string;
+  href: string;
+  description: string;
+}
+
+interface BestRec { slug: string; title: string; category: string; }
+interface VsRec { slug: string; h1: string; }
+interface AltRec { slug: string; h1: string; }
+
+const bestPages = (bestData as unknown as { pages: BestRec[] }).pages;
+const vsPages = (vsData as unknown as { pages: VsRec[] }).pages;
+const altPages = (alternativesData as unknown as { pages: AltRec[] }).pages;
+const hubPages = (hubsData as unknown as { pages: { slug: string; title: string; h1: string; sections: { heading: string; links: LinkRec[]; planned: string[] }[] }[] }).pages;
+
 export default function HomePage() {
   return (
     <article className="page">
@@ -9,33 +33,55 @@ export default function HomePage() {
         <p className="lead">
           Programmatic SEO affiliate engine for AI tools with recurring-commission programs.
           Every page is rendered from a typed dataset of verified price and commission data
-          (checked 2026-08-07). Verdicts are data-driven, not hands-on review claims.
+          (checked 2026-08-08). Verdicts are data-driven, not hands-on review claims.
         </p>
       </header>
 
-      <section aria-labelledby="published-heading">
-        <h2 id="published-heading">Published pages (Phase 1 seed)</h2>
+      <section aria-labelledby="hubs-heading">
+        <h2 id="hubs-heading">Category hubs</h2>
         <ul className="hub-links">
-          <li>
-            <Link href="/best/ai-tools/">Best AI tools index</Link>
-            <p className="link-description">Hub for best-of category roundups.</p>
-          </li>
-          <li>
-            <Link href="/alternatives/">Alternatives index</Link>
-            <p className="link-description">Hub for tool alternatives pages.</p>
-          </li>
-          <li>
-            <Link href="/best/ai-writing-tools/">Best AI writing tools</Link>
-            <p className="link-description">Family A: Jasper, Writesonic and Scalenut on verified data.</p>
-          </li>
-          <li>
-            <Link href="/writesonic-vs-jasper/">Writesonic vs Jasper</Link>
-            <p className="link-description">Family B: side-by-side comparison with comparison table.</p>
-          </li>
-          <li>
-            <Link href="/jasper-ai-alternatives/">Jasper AI alternatives</Link>
-            <p className="link-description">Family C: alternatives with documented reasons users switch.</p>
-          </li>
+          {hubPages.map((h) => (
+            <li key={h.slug}>
+              <Link href={`/${h.slug}/`}>{h.title || h.h1}</Link>
+              <p className="link-description">
+                {h.sections?.[0]?.links?.length ? `${h.sections[0].links.length} linked pages` : 'Category hub'}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section aria-labelledby="best-heading">
+        <h2 id="best-heading">Best-of roundups ({bestPages.length})</h2>
+        <ul className="hub-links">
+          {bestPages.map((p) => (
+            <li key={p.slug}>
+              <Link href={`/best/${p.slug}/`}>{p.title}</Link>
+              <p className="link-description">{p.category}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section aria-labelledby="vs-heading">
+        <h2 id="vs-heading">Comparisons ({vsPages.length})</h2>
+        <ul className="hub-links">
+          {vsPages.map((p) => (
+            <li key={p.slug}>
+              <Link href={`/${p.slug}/`}>{p.h1}</Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section aria-labelledby="alt-heading">
+        <h2 id="alt-heading">Alternatives ({altPages.length})</h2>
+        <ul className="hub-links">
+          {altPages.map((p) => (
+            <li key={p.slug}>
+              <Link href={`/${p.slug}/`}>{p.h1}</Link>
+            </li>
+          ))}
         </ul>
       </section>
 
