@@ -14,14 +14,46 @@
         "bestForB": "Jasper: teams that want a lower starting price and open-ended 25% recurring commissions on Creator/Teams plans."
       },
       "comparisonTable": [
-        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$79/mo (Swipe Starter)", "toolBValue": "$59/mo (Pro)" },
-        { "rowLabel": "Monthly billing price", "toolAValue": "Not stated in verified source", "toolBValue": "$69/mo" },
-        { "rowLabel": "Plan range", "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)", "toolBValue": "Creator, Teams, Business (Pro from $59/mo)" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "20% recurring", "toolBValue": "25% recurring (Creator/Teams; not Business)" },
-        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "Not stated (paid per billing period)" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "60 days", "toolBValue": "Not stated in official agreement" },
-        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Starting price (annual billing)",
+          "toolAValue": "$79/mo (Swipe Starter)",
+          "toolBValue": "$59/mo (Pro)"
+        },
+        {
+          "rowLabel": "Monthly billing price",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "$69/mo"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)",
+          "toolBValue": "Creator, Teams, Business (Pro from $59/mo)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "20% recurring",
+          "toolBValue": "25% recurring (Creator/Teams; not Business)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "12 months",
+          "toolBValue": "Not stated (paid per billing period)"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "60 days",
+          "toolBValue": "Not stated in official agreement"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -38,10 +70,22 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
-        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
-        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
-        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+        {
+          "label": "Jasper vs Writesonic",
+          "href": "/jasper-vs-writesonic/"
+        },
+        {
+          "label": "Jasper AI alternatives",
+          "href": "/jasper-ai-alternatives/"
+        },
+        {
+          "label": "Writesonic alternatives",
+          "href": "/writesonic-alternatives/"
+        },
+        {
+          "label": "Best AI writing tools",
+          "href": "/best/ai-writing-tools/"
+        }
       ],
       "disclosure": true
     },
@@ -59,14 +103,46 @@
         "bestForB": "Writesonic: content teams that want a broad plan range (Swipe Starter to Growth) and a clearly defined 12-month recurring commission window."
       },
       "comparisonTable": [
-        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$59/mo (Pro)", "toolBValue": "$79/mo (Swipe Starter)" },
-        { "rowLabel": "Monthly billing price", "toolAValue": "$69/mo", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Plan range", "toolAValue": "Creator, Teams, Business (Pro from $59/mo)", "toolBValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "25% recurring (Creator/Teams; not Business)", "toolBValue": "20% recurring" },
-        { "rowLabel": "Commission window", "toolAValue": "Not stated (paid per billing period)", "toolBValue": "12 months" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in official agreement", "toolBValue": "60 days" },
-        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Starting price (annual billing)",
+          "toolAValue": "$59/mo (Pro)",
+          "toolBValue": "$79/mo (Swipe Starter)"
+        },
+        {
+          "rowLabel": "Monthly billing price",
+          "toolAValue": "$69/mo",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Creator, Teams, Business (Pro from $59/mo)",
+          "toolBValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "25% recurring (Creator/Teams; not Business)",
+          "toolBValue": "20% recurring"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Not stated (paid per billing period)",
+          "toolBValue": "12 months"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Not stated in official agreement",
+          "toolBValue": "60 days"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -83,10 +159,22 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
-        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
-        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
-        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+        {
+          "label": "Writesonic vs Jasper",
+          "href": "/writesonic-vs-jasper/"
+        },
+        {
+          "label": "Jasper AI alternatives",
+          "href": "/jasper-ai-alternatives/"
+        },
+        {
+          "label": "Writesonic alternatives",
+          "href": "/writesonic-alternatives/"
+        },
+        {
+          "label": "Best AI writing tools",
+          "href": "/best/ai-writing-tools/"
+        }
       ],
       "disclosure": true
     },
@@ -104,14 +192,46 @@
         "bestForB": "Surfer: SEO professionals who need on-page content optimization and can take one-time CPA commissions."
       },
       "comparisonTable": [
-        { "rowLabel": "Starting price (annual/yearly billing)", "toolAValue": "$79/mo (Swipe Starter)", "toolBValue": "$99/mo (Standard)" },
-        { "rowLabel": "Plan range", "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)", "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)" },
-        { "rowLabel": "Category", "toolAValue": "AI writing / content generation", "toolBValue": "SEO content optimization" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "20% recurring", "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1)" },
-        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "n/a - one-time CPA per new customer" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "60 days", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Starting price (annual/yearly billing)",
+          "toolAValue": "$79/mo (Swipe Starter)",
+          "toolBValue": "$99/mo (Standard)"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Swipe Starter, Basic ($199/mo), Growth ($399/mo)",
+          "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)"
+        },
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI writing / content generation",
+          "toolBValue": "SEO content optimization"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "20% recurring",
+          "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "12 months",
+          "toolBValue": "n/a - one-time CPA per new customer"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "60 days",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -128,11 +248,26 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
-        { "label": "Surfer SEO alternatives", "href": "/surfer-seo-alternatives/" },
-        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" },
-        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
-        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+        {
+          "label": "Writesonic alternatives",
+          "href": "/writesonic-alternatives/"
+        },
+        {
+          "label": "Surfer SEO alternatives",
+          "href": "/surfer-seo-alternatives/"
+        },
+        {
+          "label": "Best AI writing tools",
+          "href": "/best/ai-writing-tools/"
+        },
+        {
+          "label": "AI SEO tools hub",
+          "href": "/ai-seo-tools/"
+        },
+        {
+          "label": "AI content generators hub",
+          "href": "/ai-content-generators/"
+        }
       ],
       "disclosure": true
     },
@@ -150,14 +285,46 @@
         "bestForB": "Surfer: SEO professionals who are comfortable with one-time CPA commissions (up to 125% of a monthly plan at Tier 3)."
       },
       "comparisonTable": [
-        { "rowLabel": "Starting price (annual/yearly billing)", "toolAValue": "$59/mo (Starter; limited offer from $24/mo)", "toolBValue": "$99/mo (Standard)" },
-        { "rowLabel": "Plan range", "toolAValue": "Starter, Plus ($89/mo), Professional ($199/mo)", "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)" },
-        { "rowLabel": "Category", "toolAValue": "AI SEO content platform", "toolBValue": "SEO content optimization" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "30-50% recurring", "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1, up to 125% / 25% at Tier 3)" },
-        { "rowLabel": "Commission window", "toolAValue": "Lifetime", "toolBValue": "n/a - one-time CPA per new customer" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in verified source", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Starting price (annual/yearly billing)",
+          "toolAValue": "$59/mo (Starter; limited offer from $24/mo)",
+          "toolBValue": "$99/mo (Standard)"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Starter, Plus ($89/mo), Professional ($199/mo)",
+          "toolBValue": "Standard, Pro ($182/mo), Peace of Mind ($299/mo)"
+        },
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI SEO content platform",
+          "toolBValue": "SEO content optimization"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "30-50% recurring",
+          "toolBValue": "Tiered one-time CPA (75% monthly / 15% yearly at Tier 1, up to 125% / 25% at Tier 3)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Lifetime",
+          "toolBValue": "n/a - one-time CPA per new customer"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -174,11 +341,26 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
-        { "label": "Surfer SEO alternatives", "href": "/surfer-seo-alternatives/" },
-        { "label": "AI SEO tools hub", "href": "/ai-seo-tools/" },
-        { "label": "AI content generators hub", "href": "/ai-content-generators/" },
-        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+        {
+          "label": "Scalenut alternatives",
+          "href": "/scalenut-alternatives/"
+        },
+        {
+          "label": "Surfer SEO alternatives",
+          "href": "/surfer-seo-alternatives/"
+        },
+        {
+          "label": "AI SEO tools hub",
+          "href": "/ai-seo-tools/"
+        },
+        {
+          "label": "AI content generators hub",
+          "href": "/ai-content-generators/"
+        },
+        {
+          "label": "Best AI writing tools",
+          "href": "/best/ai-writing-tools/"
+        }
       ],
       "disclosure": true
     },
@@ -196,15 +378,51 @@
         "bestForB": "Scalenut: SEO-focused content teams that want 30-50% recurring commissions for life."
       },
       "comparisonTable": [
-        { "rowLabel": "Starting price (annual billing)", "toolAValue": "$59/mo (Pro)", "toolBValue": "$59/mo (Starter; limited offer from $24/mo)" },
-        { "rowLabel": "Monthly billing price", "toolAValue": "$69/mo", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Plan range", "toolAValue": "Creator, Teams, Business", "toolBValue": "Starter, Plus ($89/mo), Professional ($199/mo)" },
-        { "rowLabel": "Category", "toolAValue": "AI writing assistant", "toolBValue": "AI SEO content platform" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "25% recurring (Creator/Teams; not Business)", "toolBValue": "30-50% recurring" },
-        { "rowLabel": "Commission window", "toolAValue": "Not stated (paid per billing period)", "toolBValue": "Lifetime" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "Not stated in official agreement", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Free tier", "toolAValue": "Not stated", "toolBValue": "Not stated" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Starting price (annual billing)",
+          "toolAValue": "$59/mo (Pro)",
+          "toolBValue": "$59/mo (Starter; limited offer from $24/mo)"
+        },
+        {
+          "rowLabel": "Monthly billing price",
+          "toolAValue": "$69/mo",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Creator, Teams, Business",
+          "toolBValue": "Starter, Plus ($89/mo), Professional ($199/mo)"
+        },
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI writing assistant",
+          "toolBValue": "AI SEO content platform"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "25% recurring (Creator/Teams; not Business)",
+          "toolBValue": "30-50% recurring"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Not stated (paid per billing period)",
+          "toolBValue": "Lifetime"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Not stated in official agreement",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -221,10 +439,22 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
-        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
-        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
-        { "label": "Best AI writing tools", "href": "/best/ai-writing-tools/" }
+        {
+          "label": "Jasper AI alternatives",
+          "href": "/jasper-ai-alternatives/"
+        },
+        {
+          "label": "Scalenut alternatives",
+          "href": "/scalenut-alternatives/"
+        },
+        {
+          "label": "Writesonic vs Jasper",
+          "href": "/writesonic-vs-jasper/"
+        },
+        {
+          "label": "Best AI writing tools",
+          "href": "/best/ai-writing-tools/"
+        }
       ],
       "disclosure": true
     },
@@ -242,14 +472,46 @@
         "bestForB": "MeetGeek: teams evaluating a 30% recurring commission on an AI meeting recorder; pricing still needs verification."
       },
       "comparisonTable": [
-        { "rowLabel": "Category", "toolAValue": "AI meeting recorder + note-taker", "toolBValue": "AI meeting recorder + note-taker" },
-        { "rowLabel": "Starting price", "toolAValue": "Free plan; Pro from $10/seat/mo (annual)", "toolBValue": "Not verified at publish time" },
-        { "rowLabel": "Free tier", "toolAValue": "Yes (free plan verified)", "toolBValue": "Not stated" },
-        { "rowLabel": "Affiliate commission", "toolAValue": "Up to 30% recurring", "toolBValue": "30% recurring" },
-        { "rowLabel": "Commission window", "toolAValue": "12 months", "toolBValue": "Not stated (monthly per subscription)" },
-        { "rowLabel": "Affiliate cookie", "toolAValue": "90 days", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Sales features", "toolAValue": "CRM autofill + deal intelligence", "toolBValue": "Not stated in verified source" },
-        { "rowLabel": "Rating (named source)", "toolAValue": "Not verified", "toolBValue": "Not verified" }
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI meeting recorder + note-taker",
+          "toolBValue": "AI meeting recorder + note-taker"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "Free plan; Pro from $10/seat/mo (annual)",
+          "toolBValue": "Not verified at publish time"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Yes (free plan verified)",
+          "toolBValue": "Not stated"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "Up to 30% recurring",
+          "toolBValue": "30% recurring"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "12 months",
+          "toolBValue": "Not stated (monthly per subscription)"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "90 days",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Sales features",
+          "toolAValue": "CRM autofill + deal intelligence",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
       ],
       "faqs": [
         {
@@ -266,10 +528,570 @@
         }
       ],
       "relatedLinks": [
-        { "label": "MeetGeek alternatives", "href": "/meetgeek-alternatives/" },
-        { "label": "AI meeting recorders hub", "href": "/ai-meeting-recorders/" },
-        { "label": "AI tool alternatives index", "href": "/alternatives/" },
-        { "label": "Best AI tools index", "href": "/best/ai-tools/" }
+        {
+          "label": "MeetGeek alternatives",
+          "href": "/meetgeek-alternatives/"
+        },
+        {
+          "label": "AI meeting recorders hub",
+          "href": "/ai-meeting-recorders/"
+        },
+        {
+          "label": "AI tool alternatives index",
+          "href": "/alternatives/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "tidio-vs-manychat",
+      "h1": "Tidio vs ManyChat (2026): Which AI Chatbot Is Better?",
+      "metaDescription": "Tidio vs ManyChat compared on verified 2026 data: pricing (Starter from $24.17/mo vs paid from $14/mo, both with free plans), affiliate commissions (up to 30% per sale vs 30-50% recurring x 12 months), channels and features. Checked 2026-08-08.",
+      "toolASlug": "tidio",
+      "toolBSlug": "manychat",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on channel and commission structure - Tidio leads for website live chat with the Lyro AI agent; ManyChat leads for Instagram DM and Messenger automation with a defined 12-month recurring window.",
+        "why": "On verified data (2026-08-08), Tidio is freemium with Starter from $24.17/mo on annual billing (plans up to ~$300/mo) and pays up to 30% per sale with monthly payouts; its official page does not state whether the commission recurs. ManyChat is freemium with paid plans from $14/mo and pays 30-50% of payments recurring for 12 months via PartnerStack (terms archive-verified 2026-07-22; its live site 403s research bots, so re-confirm before launch). The primary difference is channel: Tidio automates your website, ManyChat automates social DMs. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Tidio: SMBs that want an AI chatbot plus live chat on their own website, with an affiliate program open to everyone (no audience requirement).",
+        "bestForB": "ManyChat: Instagram DM and Messenger marketers and creators who want chat-funnel automation with a clearly defined 12-month recurring commission window."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI chatbot + live chat (website)",
+          "toolBValue": "Chat-marketing automation (Instagram DM / Messenger)"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "Free plan; Starter from $24.17/mo (annual)",
+          "toolBValue": "Free plan; paid from $14/mo"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Yes (free plan verified)",
+          "toolBValue": "Yes (free plan verified)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "Up to 30% per sale",
+          "toolBValue": "30-50% of payments recurring (tiered)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Not stated (recurring vs one-time)",
+          "toolBValue": "12 months"
+        },
+        {
+          "rowLabel": "Affiliate network",
+          "toolAValue": "Official page (tidio.com/partners/affiliate)",
+          "toolBValue": "PartnerStack (archive-verified 2026-07-22)"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Tidio or ManyChat?",
+          "answer": "Based on verified data (2026-08-08), they serve different channels: Tidio is a website live-chat and AI-agent (Lyro) tool with Starter from $24.17/mo on annual billing; ManyChat is Instagram DM and Messenger automation with paid plans from $14/mo. Choose by where your conversations happen: your website (Tidio) or social DMs (ManyChat)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Tidio or ManyChat?",
+          "answer": "ManyChat: 30-50% of payments recurring for 12 months via PartnerStack (archive-verified). Tidio: up to 30% per sale with monthly payouts; whether it recurs is not stated on its official page. Both verified 2026-08-08 (ManyChat via archive render)."
+        },
+        {
+          "question": "Do Tidio or ManyChat have free plans?",
+          "answer": "Yes - both publish free plans (verified 2026-08-08). ManyChat's paid plans start at $14/mo; Tidio's Starter is from $24.17/mo on annual billing."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "ManyChat alternatives",
+          "href": "/manychat-alternatives/"
+        },
+        {
+          "label": "Tidio alternatives",
+          "href": "/tidio-alternatives/"
+        },
+        {
+          "label": "AI chatbots hub",
+          "href": "/ai-chatbots/"
+        },
+        {
+          "label": "Best AI chatbots",
+          "href": "/best/ai-chatbots/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "hootsuite-vs-metricool",
+      "h1": "Hootsuite vs Metricool (2026): Which Social Media Tool Is Better?",
+      "metaDescription": "Hootsuite vs Metricool compared on verified 2026 data: pricing (from $99/user/mo vs free plan + from $20/mo), affiliate commissions (20% first-month vs 25-50% recurring, lifetime cookies), plans and features. Checked 2026-08-08.",
+      "toolASlug": "hootsuite",
+      "toolBSlug": "metricool",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on scale and revenue model - Metricool leads on entry price and recurring commissions; Hootsuite leads on enterprise features and brand recognition.",
+        "why": "On verified data (2026-08-08), Metricool is freemium with paid plans from $20/mo on annual billing (up to $159/mo for 50 brands) and pays 25% recurring (Associate) up to 50% (Partner) with never-expiring cookies. Hootsuite is from $99/user/mo on annual billing (up to $399/user/mo for Advanced) and pays 20% of first-month revenue only (not recurring) via Impact with a 90-day cookie. Hootsuite adds social listening (Lumen) and an AI assistant; Metricool adds unified analytics plus scheduling. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Hootsuite: teams that need a full social media management suite with listening and enterprise-grade features.",
+        "bestForB": "Metricool: freelancers and small agencies managing multiple brands who want a lower entry price and recurring commissions with lifetime cookies."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "Social media management suite",
+          "toolBValue": "Social analytics + scheduling"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "$99/user/mo (annual; up to $399/user/mo Advanced)",
+          "toolBValue": "Free plan; paid from $20/mo (annual)"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Yes (free plan verified)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "20% of first-month revenue (not recurring)",
+          "toolBValue": "25% recurring (Associate) up to 50% (Partner)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "n/a - one-time on first month",
+          "toolBValue": "Lifetime (cookies never expire)"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "90 days (Impact)",
+          "toolBValue": "Never expires"
+        },
+        {
+          "rowLabel": "Payout threshold",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "$200 minimum payout"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Hootsuite or Metricool?",
+          "answer": "On verified data (2026-08-08), Metricool has the lower entry price (free plan; paid from $20/mo annual) and recurring commissions with lifetime cookies; Hootsuite starts at $99/user/mo (annual) and pays only on the first month. Choose Hootsuite for enterprise-scale management and listening, Metricool for freelancers and small agencies."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Hootsuite or Metricool?",
+          "answer": "Metricool: 25% recurring (Associate, up to $100/user) up to 50% (Partner, up to $300/user) with never-expiring cookies. Hootsuite: 20% of first-month revenue only, via Impact with a 90-day cookie. Recurring revenue favors Metricool."
+        },
+        {
+          "question": "Do Hootsuite or Metricool have free plans?",
+          "answer": "Metricool publishes a free plan (verified 2026-08-08). No free tier was verified for Hootsuite in this dataset; its plans start at $99/user/mo on annual billing."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "Metricool alternatives",
+          "href": "/metricool-alternatives/"
+        },
+        {
+          "label": "SocialBee alternatives",
+          "href": "/socialbee-alternatives/"
+        },
+        {
+          "label": "AI social media tools hub",
+          "href": "/ai-social-media-tools/"
+        },
+        {
+          "label": "Best AI social media tools",
+          "href": "/best/ai-social-media-tools/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "metricool-vs-socialbee",
+      "h1": "Metricool vs SocialBee (2026): Which Social Media Tool Is Better?",
+      "metaDescription": "Metricool vs SocialBee compared on verified 2026 data: pricing (free plan + from $20/mo vs from $24.20/mo), affiliate commissions (25-50% recurring, lifetime cookies vs 20% recurring in perpetuity), plans and features. Checked 2026-08-08.",
+      "toolASlug": "metricool",
+      "toolBSlug": "socialbee",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on workflow - Metricool leads on analytics breadth, multi-brand management and commission rate; SocialBee leads on evergreen category scheduling and SMB simplicity.",
+        "why": "On verified data (2026-08-08), Metricool is freemium with paid plans from $20/mo on annual billing and pays 25% recurring (Associate) up to 50% (Partner) with never-expiring cookies ($200 minimum payout; the 50% tier requires 200 paid registrations). SocialBee is from $24.20/mo on annual billing (14-day trial) and pays 20% recurring in perpetuity plus 10% on ConciergeBee services, but requires Advocate vetting after application. Metricool targets multi-brand analytics (5-50 brands); SocialBee targets AI-assisted evergreen scheduling for SMBs. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Metricool: freelancers and small agencies managing multiple brands who want deep analytics and the higher recurring commission rate.",
+        "bestForB": "SocialBee: small businesses that want AI-assisted evergreen, category-based scheduling with a simple 20% perpetual recurring commission."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "Social analytics + scheduling",
+          "toolBValue": "AI-assisted evergreen scheduling"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "Free plan; paid from $20/mo (annual)",
+          "toolBValue": "$24.20/mo (annual); 14-day free trial"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Yes (free plan verified)",
+          "toolBValue": "Trial only (no free tier verified)"
+        },
+        {
+          "rowLabel": "Multi-brand",
+          "toolAValue": "5-50 brands (up to $159/mo)",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "25% recurring (Associate) up to 50% (Partner)",
+          "toolBValue": "20% recurring in perpetuity + 10% on services"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Never expires",
+          "toolBValue": "90 days (PartnerStack)"
+        },
+        {
+          "rowLabel": "Approval friction",
+          "toolAValue": "Instant Tier-1 enrollment for Metricool users",
+          "toolBValue": "Advocate vetting after application"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Metricool or SocialBee?",
+          "answer": "On verified data (2026-08-08), Metricool offers a free plan, paid plans from $20/mo (annual), multi-brand analytics for 5-50 brands, and 25-50% recurring commissions with lifetime cookies. SocialBee offers AI-assisted evergreen scheduling from $24.20/mo (annual) with 20% recurring in perpetuity. Choose by workflow: analytics-led multi-brand management (Metricool) or simple evergreen scheduling (SocialBee)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Metricool or SocialBee?",
+          "answer": "Metricool pays the higher headline rate: 25% recurring (Associate, up to $100/user) up to 50% (Partner, up to $300/user) with never-expiring cookies; its 50% tier requires 200 paid registrations and payouts need a $200 minimum. SocialBee pays 20% recurring in perpetuity plus 10% on ConciergeBee services with 90-day cookies."
+        },
+        {
+          "question": "Do Metricool or SocialBee have free plans?",
+          "answer": "Metricool publishes a free plan (verified 2026-08-08). SocialBee offers a 14-day free trial; no free tier was verified for SocialBee in this dataset."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "SocialBee alternatives",
+          "href": "/socialbee-alternatives/"
+        },
+        {
+          "label": "Hootsuite alternatives",
+          "href": "/hootsuite-alternatives/"
+        },
+        {
+          "label": "Hootsuite vs Metricool",
+          "href": "/hootsuite-vs-metricool/"
+        },
+        {
+          "label": "AI social media tools hub",
+          "href": "/ai-social-media-tools/"
+        },
+        {
+          "label": "Best AI social media tools",
+          "href": "/best/ai-social-media-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "aragon-vs-headshotpro",
+      "h1": "Aragon.ai vs HeadshotPro (2026): Which AI Headshot Tool Is Better?",
+      "metaDescription": "Aragon.ai vs HeadshotPro compared on verified 2026 data: pricing (from $35 vs from $29 one-time), affiliate commissions (30% per sale vs 30% per sale with $25 min and 60-day cookie), packages and features. Checked 2026-08-08.",
+      "toolASlug": "aragon",
+      "toolBSlug": "headshotpro",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on use case - HeadshotPro leads on entry price ($29 vs $35) and a low $25 payout minimum; Aragon.ai leads on package size (20-100 headshots) and subscription options.",
+        "why": "On verified data (2026-08-08), HeadshotPro charges from $29 one-time (Basic; Professional $39, Executive $59) with 30% commission per sale, $25 minimum payout, bi-weekly PayPal payouts, a 60-day cookie, and a ~5% conversion rate quoted on its official page. Aragon.ai charges from $35 per package (20-100 headshots; subscriptions from $15/mo) with 30% commission on every sale (first payment on subscriptions) and a $100 minimum payout on monthly first-Monday payouts. Both are one-time-purchase models, so neither pays recurring commission on packages. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "Aragon.ai: professionals who want larger headshot packages (20-100 images) and optional subscriptions with a 30% per-sale commission and no caps.",
+        "bestForB": "HeadshotPro: job seekers and teams that want a lower entry price ($29), a $25 minimum payout and a 60-day cookie window."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI headshot generator (packages + subscriptions)",
+          "toolBValue": "AI headshot generator (one-time packages)"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "From $35 per package (subscriptions from $15/mo)",
+          "toolBValue": "From $29 one-time (Basic)"
+        },
+        {
+          "rowLabel": "Package size",
+          "toolAValue": "20-100 headshots",
+          "toolBValue": "Basic / Professional / Executive packages"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "30% per sale (first payment on subscriptions)",
+          "toolBValue": "30% per sale"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Subscriptions: first payment only (not recurring)",
+          "toolBValue": "n/a - one-time purchases"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "60 days"
+        },
+        {
+          "rowLabel": "Payout",
+          "toolAValue": "$100 minimum, monthly first Monday",
+          "toolBValue": "$25 minimum, bi-weekly (PayPal)"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, Aragon.ai or HeadshotPro?",
+          "answer": "Based on verified data (2026-08-08), HeadshotPro starts lower ($29 vs $35) and pays out from a $25 minimum bi-weekly with a 60-day cookie; Aragon.ai offers larger packages (20-100 headshots) and optional subscriptions from $15/mo. Both pay 30% per sale; neither pays recurring on packages."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, Aragon.ai or HeadshotPro?",
+          "answer": "Both pay 30% per sale (verified 2026-08-08). Aragon.ai adds subscription plans (first payment only) and claims $400k+ paid to 2,000+ affiliates (vendor claim); HeadshotPro has the lower payout minimum ($25 vs $100) and a 60-day cookie."
+        },
+        {
+          "question": "Do Aragon.ai or HeadshotPro have free plans?",
+          "answer": "No free tier was verified for either tool in this dataset on 2026-08-08. Both sell one-time packages (Aragon.ai from $35, HeadshotPro from $29) and Aragon.ai also sells subscriptions from $15/mo."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "Aragon.ai alternatives",
+          "href": "/aragon-alternatives/"
+        },
+        {
+          "label": "HeadshotPro alternatives",
+          "href": "/headshotpro-alternatives/"
+        },
+        {
+          "label": "AI headshot generators hub",
+          "href": "/ai-headshot-generators/"
+        },
+        {
+          "label": "Best AI headshot generators",
+          "href": "/best/ai-headshot-generators/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "heygen-vs-veed",
+      "h1": "HeyGen vs VEED (2026): Which AI Video Tool Is Better?",
+      "metaDescription": "HeyGen vs VEED compared on verified 2026 data: pricing (Creator from $24/mo vs partial/client-rendered), affiliate commissions (35% recurring x 3 months vs 20% + 20% recurring), plans and features. Checked 2026-08-08.",
+      "toolASlug": "heygen",
+      "toolBSlug": "veed",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "Depends on use case - HeyGen leads on avatar/voice-based video and verified pricing; VEED leads on browser-based editing breadth but its paid pricing is partial in this dataset.",
+        "why": "On verified data (2026-08-08), HeyGen is freemium with Creator from $24/mo on annual billing ($29 monthly), Pro $49/mo, Business $149/mo, and pays 35% recurring for 3 months per subscription (50% promo Aug 1-Oct 31, 2026) with a 30-day tracking window and $100 minimum payout; its program requires 5K+ followers on one platform. VEED is freemium with paid tiers that render client-side only (pricing marked partial), pays 20% initial plus 20% recurring on subscription payments with bonus commissions up to 50% via Impact, and gives affiliates a free Pro account plus 3,000 AI credits. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "HeyGen: creators and marketers making avatar-based AI videos with voice cloning, who can meet the 5K+ follower requirement.",
+        "bestForB": "VEED: marketers and creators who want browser-based AI video editing with no follower requirement and 20% + 20% recurring commissions."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "Avatar-based AI video (avatars + voice cloning)",
+          "toolBValue": "Browser-based AI video editing"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "Free plan; Creator $24/mo (annual; $29 monthly)",
+          "toolBValue": "Free plan; paid tiers partial (client-rendered)"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Creator, Pro ($49/mo), Business ($149/mo)",
+          "toolBValue": "Not stated in verified source (partial)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "35% recurring for 3 months (50% promo Aug-Oct 2026)",
+          "toolBValue": "20% initial + 20% recurring (bonuses up to 50%)"
+        },
+        {
+          "rowLabel": "Program friction",
+          "toolAValue": "5K+ followers on one platform required",
+          "toolBValue": "Not stated in verified source"
+        },
+        {
+          "rowLabel": "Affiliate network",
+          "toolAValue": "Official Social Creator Program",
+          "toolBValue": "Impact.com"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, HeyGen or VEED?",
+          "answer": "Based on verified data (2026-08-08), HeyGen is avatar and voice-cloning based (Creator $24/mo annual) with verified pricing; VEED is a browser editor with free access to its Pro account for affiliates, but its paid pricing is marked partial because tiers render client-side only. Choose by workflow: avatar video (HeyGen) or in-browser editing (VEED)."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, HeyGen or VEED?",
+          "answer": "HeyGen pays 35% recurring for 3 months per subscription (50% promo Aug 1-Oct 31, 2026), with a 30-day tracking window and $100 minimum payout, but requires 5K+ followers. VEED pays 20% initial plus 20% recurring on subscription payments with bonuses up to 50% and no follower requirement stated. Both verified on official pages 2026-08-08."
+        },
+        {
+          "question": "Do HeyGen or VEED have free plans?",
+          "answer": "Both publish free plans (verified 2026-08-08). HeyGen's paid plans start at $24/mo (annual); VEED's paid tiers were marked partial at publish time."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "HeyGen alternatives",
+          "href": "/heygen-alternatives/"
+        },
+        {
+          "label": "VEED alternatives",
+          "href": "/veed-alternatives/"
+        },
+        {
+          "label": "AI video generators hub",
+          "href": "/ai-video-generators/"
+        },
+        {
+          "label": "Best AI video generators",
+          "href": "/best/ai-video-generators/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "krispcall-vs-callhippo",
+      "h1": "KrispCall vs CallHippo (2026): Which AI Phone System Is Better?",
+      "metaDescription": "KrispCall vs CallHippo compared on verified 2026 data: pricing (from $12/mo vs free plan + from $18/user/mo), affiliate commissions (30% recurring for life vs 20% recurring forever), plans and features. Checked 2026-08-08.",
+      "toolASlug": "krispcall",
+      "toolBSlug": "callhippo",
+      "updatedAt": "2026-08-08",
+      "verdict": {
+        "winner": "KrispCall on entry price and commission rate (30% recurring for life vs 20% recurring forever); CallHippo on a verified free plan and a wider stated plan range.",
+        "why": "On verified data (2026-08-08), KrispCall is from $12/mo and pays 30% recurring for life. CallHippo publishes a free plan with Starter $18/user/mo, Professional $30/user/mo and Ultimate $42/user/mo, pays 20% recurring forever (vendor-stated) with up to a 90-day cookie, and offers virtual numbers in 50+ countries. For affiliates, KrispCall's 30% lifetime rate is higher; for buyers, CallHippo's free plan and plan range are the counterweight. Neither tool had a named-source rating verified at publish time.",
+        "bestForA": "KrispCall: small businesses that want the lowest entry price (from $12/mo) and affiliates who want a 30% lifetime recurring commission.",
+        "bestForB": "CallHippo: SMBs that want a verified free plan, a wider stated plan range and virtual numbers in 50+ countries."
+      },
+      "comparisonTable": [
+        {
+          "rowLabel": "Category",
+          "toolAValue": "AI phone system for small business",
+          "toolBValue": "AI-powered cloud phone system"
+        },
+        {
+          "rowLabel": "Starting price",
+          "toolAValue": "From $12/mo",
+          "toolBValue": "Free plan; Starter from $18/user/mo"
+        },
+        {
+          "rowLabel": "Free tier",
+          "toolAValue": "Not stated",
+          "toolBValue": "Yes (free plan verified)"
+        },
+        {
+          "rowLabel": "Plan range",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "Starter, Professional ($30/mo), Ultimate ($42/mo)"
+        },
+        {
+          "rowLabel": "Affiliate commission",
+          "toolAValue": "30% recurring",
+          "toolBValue": "20% recurring (vendor-stated)"
+        },
+        {
+          "rowLabel": "Commission window",
+          "toolAValue": "Lifetime",
+          "toolBValue": "Forever (vendor-stated)"
+        },
+        {
+          "rowLabel": "Affiliate cookie",
+          "toolAValue": "Not stated in verified source",
+          "toolBValue": "Up to 90 days"
+        },
+        {
+          "rowLabel": "Rating (named source)",
+          "toolAValue": "Not verified",
+          "toolBValue": "Not verified"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Which is better, KrispCall or CallHippo?",
+          "answer": "Based on verified data (2026-08-08), KrispCall has the lower entry price (from $12/mo) and the higher affiliate commission (30% recurring for life); CallHippo publishes a free plan, paid plans from $18/user/mo, and virtual numbers in 50+ countries. Choose by budget and free-plan need."
+        },
+        {
+          "question": "Which pays higher affiliate commissions, KrispCall or CallHippo?",
+          "answer": "KrispCall: 30% recurring for life (verified 2026-08-08). CallHippo: 20% recurring forever (vendor-stated) with up to a 90-day cookie and a free affiliate account."
+        },
+        {
+          "question": "Do KrispCall or CallHippo have free plans?",
+          "answer": "CallHippo publishes a free plan (verified 2026-08-08). No free tier was verified for KrispCall in this dataset; its plans start at $12/mo."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "CallHippo alternatives",
+          "href": "/callhippo-alternatives/"
+        },
+        {
+          "label": "KrispCall alternatives",
+          "href": "/krispcall-alternatives/"
+        },
+        {
+          "label": "AI phone systems hub",
+          "href": "/ai-phone-systems/"
+        },
+        {
+          "label": "Best AI phone systems",
+          "href": "/best/ai-phone-systems/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
       ],
       "disclosure": true
     }

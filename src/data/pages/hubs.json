@@ -19,6 +19,36 @@
               "label": "Best AI headshot generators",
               "href": "/best/ai-headshot-generators/",
               "description": "Aragon.ai, HeadshotPro and BetterPic compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI chatbots",
+              "href": "/best/ai-chatbots/",
+              "description": "Tidio and ManyChat compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI content generators",
+              "href": "/best/ai-content-generators/",
+              "description": "Jasper, Writesonic, Scalenut and Rytr compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI social media tools",
+              "href": "/best/ai-social-media-tools/",
+              "description": "Hootsuite, Metricool, SocialBee and Brand24 compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI video generators",
+              "href": "/best/ai-video-generators/",
+              "description": "Pictory, HeyGen and VEED compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI meeting recorders",
+              "href": "/best/ai-meeting-recorders/",
+              "description": "MeetGeek and Fireflies.ai compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI phone systems",
+              "href": "/best/ai-phone-systems/",
+              "description": "KrispCall and CallHippo compared on verified price and commission data."
             }
           ],
           "planned": []
@@ -141,6 +171,56 @@
               "label": "Metricool alternatives",
               "href": "/metricool-alternatives/",
               "description": "SocialBee and Hootsuite with honest, dated comparison data."
+            },
+            {
+              "label": "ManyChat alternatives",
+              "href": "/manychat-alternatives/",
+              "description": "Tidio with an honest channel-fit note (live chat vs social DM)."
+            },
+            {
+              "label": "SocialBee alternatives",
+              "href": "/socialbee-alternatives/",
+              "description": "Metricool and Hootsuite with honest, dated comparison data."
+            },
+            {
+              "label": "Aragon.ai alternatives",
+              "href": "/aragon-alternatives/",
+              "description": "HeadshotPro and BetterPic with honest, dated comparison data."
+            },
+            {
+              "label": "HeadshotPro alternatives",
+              "href": "/headshotpro-alternatives/",
+              "description": "Aragon.ai and BetterPic with honest, dated comparison data."
+            },
+            {
+              "label": "BetterPic alternatives",
+              "href": "/betterpic-alternatives/",
+              "description": "Aragon.ai and HeadshotPro with an honest note on BetterPic’s partial commission rate."
+            },
+            {
+              "label": "HeyGen alternatives",
+              "href": "/heygen-alternatives/",
+              "description": "Pictory and VEED with an honest note on program friction (5K+ followers)."
+            },
+            {
+              "label": "VEED alternatives",
+              "href": "/veed-alternatives/",
+              "description": "Pictory and HeyGen with an honest note on VEED’s partial pricing."
+            },
+            {
+              "label": "Fireflies.ai alternatives",
+              "href": "/fireflies-alternatives/",
+              "description": "MeetGeek with honest, dated comparison data."
+            },
+            {
+              "label": "CallHippo alternatives",
+              "href": "/callhippo-alternatives/",
+              "description": "KrispCall with honest, dated comparison data."
+            },
+            {
+              "label": "Rytr alternatives",
+              "href": "/rytr-alternatives/",
+              "description": "Jasper, Writesonic and Scalenut with honest, dated comparison data."
             }
           ],
           "planned": []
@@ -177,6 +257,36 @@
               "label": "Fireflies vs MeetGeek",
               "href": "/fireflies-vs-meetgeek/",
               "description": "AI meeting recorders compared on verified price and commission data."
+            },
+            {
+              "label": "Tidio vs ManyChat",
+              "href": "/tidio-vs-manychat/",
+              "description": "AI chatbots compared on verified price and commission data."
+            },
+            {
+              "label": "Hootsuite vs Metricool",
+              "href": "/hootsuite-vs-metricool/",
+              "description": "Social management suite versus analytics-led scheduling."
+            },
+            {
+              "label": "Metricool vs SocialBee",
+              "href": "/metricool-vs-socialbee/",
+              "description": "Two SMB social tools compared on verified data."
+            },
+            {
+              "label": "Aragon.ai vs HeadshotPro",
+              "href": "/aragon-vs-headshotpro/",
+              "description": "AI headshot generators compared on verified data."
+            },
+            {
+              "label": "HeyGen vs VEED",
+              "href": "/heygen-vs-veed/",
+              "description": "Avatar video versus browser editing compared on verified data."
+            },
+            {
+              "label": "KrispCall vs CallHippo",
+              "href": "/krispcall-vs-callhippo/",
+              "description": "AI phone systems compared on verified price and commission data."
             }
           ],
           "planned": []
@@ -223,6 +333,11 @@
             {
               "label": "Best AI writing tools",
               "href": "/best/ai-writing-tools/",
+              "description": "Jasper, Writesonic, Scalenut and Rytr compared on verified price and commission data."
+            },
+            {
+              "label": "Best AI content generators",
+              "href": "/best/ai-content-generators/",
               "description": "Jasper, Writesonic, Scalenut and Rytr compared on verified price and commission data."
             }
           ],
@@ -284,6 +399,11 @@
           "heading": "Related pages",
           "links": [
             {
+              "label": "Best AI video generators",
+              "href": "/best/ai-video-generators/",
+              "description": "Pictory, HeyGen and VEED compared on verified price and commission data."
+            },
+            {
               "label": "Pictory alternatives",
               "href": "/pictory-alternatives/",
               "description": "HeyGen and VEED compared against Pictory on verified data."
@@ -325,6 +445,11 @@
         {
           "heading": "Related pages",
           "links": [
+            {
+              "label": "Best AI meeting recorders",
+              "href": "/best/ai-meeting-recorders/",
+              "description": "MeetGeek and Fireflies.ai compared on verified price and commission data."
+            },
             {
               "label": "MeetGeek alternatives",
               "href": "/meetgeek-alternatives/",
@@ -373,6 +498,11 @@
           "heading": "Related pages",
           "links": [
             {
+              "label": "Best AI phone systems",
+              "href": "/best/ai-phone-systems/",
+              "description": "KrispCall and CallHippo compared on verified price and commission data."
+            },
+            {
               "label": "KrispCall alternatives",
               "href": "/krispcall-alternatives/",
               "description": "CallHippo compared against KrispCall on verified data."
@@ -404,7 +534,9 @@
               "description": "From $99/mo (yearly); tiered one-time CPA commissions. Verified data and current alternatives status."
             }
           ],
-          "planned": ["More AI SEO tools (being verified)"]
+          "planned": [
+            "More AI SEO tools (being verified)"
+          ]
         },
         {
           "heading": "Comparisons and alternatives",
@@ -462,6 +594,11 @@
           "heading": "Related pages",
           "links": [
             {
+              "label": "Best AI chatbots",
+              "href": "/best/ai-chatbots/",
+              "description": "Tidio and ManyChat compared on verified price and commission data."
+            },
+            {
               "label": "Tidio alternatives",
               "href": "/tidio-alternatives/",
               "description": "ManyChat compared against Tidio with an honest channel-fit note."
@@ -513,6 +650,11 @@
         {
           "heading": "Related pages",
           "links": [
+            {
+              "label": "Best AI social media tools",
+              "href": "/best/ai-social-media-tools/",
+              "description": "Hootsuite, Metricool, SocialBee and Brand24 compared on verified data."
+            },
             {
               "label": "Hootsuite alternatives",
               "href": "/hootsuite-alternatives/",

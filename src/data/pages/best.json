@@ -9,7 +9,12 @@
       "categorySlug": "ai-writing-tools",
       "updatedAt": "2026-08-08",
       "intro": "This page compares AI writing tools using verified, dated data only: official pricing pages fetched on 2026-08-07 (Jasper, Writesonic, Scalenut) and 2026-08-08 (Rytr), commission terms from each vendor's official affiliate agreement, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
-      "itemSlugs": ["jasper", "writesonic", "scalenut", "rytr"],
+      "itemSlugs": [
+        "jasper",
+        "writesonic",
+        "scalenut",
+        "rytr"
+      ],
       "comparisonCriteria": [
         "Starting price and billing options (official pricing pages, fetched 2026-08-07 and 2026-08-08)",
         "Affiliate commission rate and whether it recurs",
@@ -36,13 +41,34 @@
         }
       ],
       "relatedLinks": [
-        { "label": "Jasper AI alternatives", "href": "/jasper-ai-alternatives/" },
-        { "label": "Writesonic alternatives", "href": "/writesonic-alternatives/" },
-        { "label": "Scalenut alternatives", "href": "/scalenut-alternatives/" },
-        { "label": "Writesonic vs Jasper", "href": "/writesonic-vs-jasper/" },
-        { "label": "Jasper vs Writesonic", "href": "/jasper-vs-writesonic/" },
-        { "label": "Jasper vs Scalenut", "href": "/jasper-vs-scalenut/" },
-        { "label": "AI content generators hub", "href": "/ai-content-generators/" }
+        {
+          "label": "Jasper AI alternatives",
+          "href": "/jasper-ai-alternatives/"
+        },
+        {
+          "label": "Writesonic alternatives",
+          "href": "/writesonic-alternatives/"
+        },
+        {
+          "label": "Scalenut alternatives",
+          "href": "/scalenut-alternatives/"
+        },
+        {
+          "label": "Writesonic vs Jasper",
+          "href": "/writesonic-vs-jasper/"
+        },
+        {
+          "label": "Jasper vs Writesonic",
+          "href": "/jasper-vs-writesonic/"
+        },
+        {
+          "label": "Jasper vs Scalenut",
+          "href": "/jasper-vs-scalenut/"
+        },
+        {
+          "label": "AI content generators hub",
+          "href": "/ai-content-generators/"
+        }
       ],
       "disclosure": true
     },
@@ -55,7 +81,11 @@
       "categorySlug": "ai-headshot-generators",
       "updatedAt": "2026-08-08",
       "intro": "This page compares AI headshot generators using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, and each tool's stated plan structure. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
-      "itemSlugs": ["aragon", "headshotpro", "betterpic"],
+      "itemSlugs": [
+        "aragon",
+        "headshotpro",
+        "betterpic"
+      ],
       "comparisonCriteria": [
         "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
         "Affiliate commission rate and whether it recurs",
@@ -82,9 +112,423 @@
         }
       ],
       "relatedLinks": [
-        { "label": "AI headshot generators hub", "href": "/ai-headshot-generators/" },
-        { "label": "Best AI tools index", "href": "/best/ai-tools/" },
-        { "label": "AI tool alternatives index", "href": "/alternatives/" }
+        {
+          "label": "AI headshot generators hub",
+          "href": "/ai-headshot-generators/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        },
+        {
+          "label": "AI tool alternatives index",
+          "href": "/alternatives/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-chatbots",
+      "title": "Best AI Chatbots (2026): Data-Driven Comparison",
+      "h1": "Best AI Chatbots in 2026",
+      "metaDescription": "A data-driven comparison of AI chatbots with verified 2026 pricing and affiliate commission data: Tidio and ManyChat (checked 2026-08-08).",
+      "category": "AI chatbots",
+      "categorySlug": "ai-chatbots",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI chatbots using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, plus each tool's stated plan structure. Tidio and ManyChat both publish free plans and both programs are verified in this dataset; ManyChat's terms were verified from an official archive render (2026-07-22) because its live site 403s research bots. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "tidio",
+        "manychat"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI chatbot in 2026?",
+          "answer": "On verified 2026 data, the two chatbots in this dataset serve different primary channels: Tidio is a website live-chat tool with the Lyro AI agent (free plan, Starter from $24.17/mo on annual billing), and ManyChat is an Instagram DM + Messenger automation platform (free plan, paid from $14/mo). Neither had a named-source rating verified at publish time, so the pick depends on where you need automation: on your website (Tidio) or in social DMs (ManyChat)."
+        },
+        {
+          "question": "How much do AI chatbots cost?",
+          "answer": "Verified 2026-08-08: Tidio is freemium with paid plans from $24.17/mo on annual billing (plans run up to ~$300/mo); ManyChat is freemium with paid plans from $14/mo."
+        },
+        {
+          "question": "Which AI chatbots pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: ManyChat pays 30-50% of payments recurring for 12 months (tiered, via PartnerStack). Tidio pays up to 30% per sale with monthly payouts; its official page does not state whether the commission is recurring or one-time."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI chatbots hub",
+          "href": "/ai-chatbots/"
+        },
+        {
+          "label": "Tidio alternatives",
+          "href": "/tidio-alternatives/"
+        },
+        {
+          "label": "ManyChat alternatives",
+          "href": "/manychat-alternatives/"
+        },
+        {
+          "label": "Tidio vs ManyChat",
+          "href": "/tidio-vs-manychat/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-social-media-tools",
+      "title": "Best AI Social Media Tools (2026): Data-Driven Comparison",
+      "h1": "Best AI Social Media Tools in 2026",
+      "metaDescription": "A data-driven comparison of AI social media tools with verified 2026 pricing and affiliate commission data: Hootsuite, Metricool, SocialBee and Brand24 (checked 2026-08-08).",
+      "category": "AI social media tools",
+      "categorySlug": "ai-social-media-tools",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI social media tools using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, plus each tool's stated plan structure. Hootsuite, Metricool and SocialBee are social media management tools; Brand24 is a social media monitoring platform, included here per the dataset with an honest monitoring-vs-management note. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "hootsuite",
+        "metricool",
+        "socialbee",
+        "brand24"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI social media tool in 2026?",
+          "answer": "On verified 2026 data: Metricool has the lowest entry point (free plan, paid from $20/mo annual) and the deepest recurring commission (25-50% with never-expiring cookies); SocialBee (from $24.20/mo annual) adds AI-assisted evergreen scheduling; Hootsuite (from $99/user/mo annual) is the enterprise suite with social listening; Brand24 (from $199/mo annual) is monitoring, not management. The right pick depends on scale and workflow; none had a named-source rating verified at publish time."
+        },
+        {
+          "question": "How much do AI social media tools cost?",
+          "answer": "Verified 2026-08-08: Hootsuite from $99/user/mo (annual, up to $399/user/mo for Advanced); Metricool free plan with paid plans from $20/mo (annual, up to $159/mo for 50 brands); SocialBee from $24.20/mo (annual, 14-day trial); Brand24 from $199/mo on annual billing (Individual; Team $349/mo, Pro $499/mo)."
+        },
+        {
+          "question": "Which AI social media tools pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: Metricool pays 25% recurring (Associate) up to 50% (Partner) with never-expiring cookies; SocialBee pays 20% recurring in perpetuity plus 10% on ConciergeBee services; Brand24 pays up to 30% recurring; Hootsuite pays 20% of first-month revenue only (not recurring, via Impact with a 90-day cookie)."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI social media tools hub",
+          "href": "/ai-social-media-tools/"
+        },
+        {
+          "label": "Hootsuite alternatives",
+          "href": "/hootsuite-alternatives/"
+        },
+        {
+          "label": "Metricool alternatives",
+          "href": "/metricool-alternatives/"
+        },
+        {
+          "label": "SocialBee alternatives",
+          "href": "/socialbee-alternatives/"
+        },
+        {
+          "label": "Brand24 alternatives",
+          "href": "/brand24-alternatives/"
+        },
+        {
+          "label": "Hootsuite vs Metricool",
+          "href": "/hootsuite-vs-metricool/"
+        },
+        {
+          "label": "Metricool vs SocialBee",
+          "href": "/metricool-vs-socialbee/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-video-generators",
+      "title": "Best AI Video Generators (2026): Data-Driven Comparison",
+      "h1": "Best AI Video Generators in 2026",
+      "metaDescription": "A data-driven comparison of AI video generators with verified 2026 pricing and affiliate commission data: Pictory, HeyGen and VEED (checked 2026-08-08).",
+      "category": "AI video generators",
+      "categorySlug": "ai-video-generators",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI video generators using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, plus each tool's stated plan structure. Pictory is script-to-video generation, HeyGen is avatar-based AI video, and VEED is browser-based AI video editing; VEED's paid tiers render client-side only, so its pricing is marked partial in this dataset. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "pictory",
+        "heygen",
+        "veed"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI video generator in 2026?",
+          "answer": "On verified 2026 data: Pictory (from $25/mo annual, up to 50% recurring commission) is script-to-video; HeyGen (Creator $24/mo annual, 35% recurring for 3 months) is avatar and voice-cloning based but requires 5K+ followers to join its program; VEED (20% + 20% recurring, up to 50% bonus) is a browser editor with client-rendered pricing. The right pick depends on workflow; none had a named-source rating verified at publish time."
+        },
+        {
+          "question": "How much do AI video generators cost?",
+          "answer": "Verified 2026-08-08: Pictory Starter from $25/mo on annual billing ($29 monthly); HeyGen Creator from $24/mo on annual billing ($29 monthly), Pro $49/mo, Business $149/mo; VEED publishes a free plan, but its paid tiers render client-side only and were marked partial at publish time."
+        },
+        {
+          "question": "Which AI video generators pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: Pictory pays recurring commissions up to 50%; HeyGen pays 35% recurring for 3 months per subscription (50% promo Aug 1-Oct 31, 2026); VEED pays 20% initial plus 20% recurring on subscription payments with bonus commissions up to 50%."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI video generators hub",
+          "href": "/ai-video-generators/"
+        },
+        {
+          "label": "Pictory alternatives",
+          "href": "/pictory-alternatives/"
+        },
+        {
+          "label": "HeyGen alternatives",
+          "href": "/heygen-alternatives/"
+        },
+        {
+          "label": "VEED alternatives",
+          "href": "/veed-alternatives/"
+        },
+        {
+          "label": "HeyGen vs VEED",
+          "href": "/heygen-vs-veed/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-meeting-recorders",
+      "title": "Best AI Meeting Recorders (2026): Data-Driven Comparison",
+      "h1": "Best AI Meeting Recorders in 2026",
+      "metaDescription": "A data-driven comparison of AI meeting recorders and note-takers with verified 2026 data: MeetGeek and Fireflies.ai (checked 2026-08-08).",
+      "category": "AI meeting recorders",
+      "categorySlug": "ai-meeting-recorders",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI meeting recorders and note-takers using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08. Fireflies.ai has verified pricing (free plan, Pro from $10/seat/mo on annual billing); MeetGeek's starting price was not verified at publish time, but its commission (30% recurring) is verified. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "meetgeek",
+        "fireflies"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI meeting recorder in 2026?",
+          "answer": "On verified 2026 data, Fireflies.ai is the stronger pick where pricing matters: it has a verified free plan, Pro from $10/seat/mo (annual), and up to 30% recurring commissions for 12 months with a 90-day cookie. MeetGeek matches the 30% recurring rate, but its starting price was not verified at publish time. Neither tool had a named-source rating verified at publish time."
+        },
+        {
+          "question": "How much do AI meeting recorders cost?",
+          "answer": "Verified 2026-08-08: Fireflies.ai publishes a free plan with Pro from $10/seat/mo (annual), Business $19/seat/mo and Enterprise $39/seat/mo. MeetGeek's starting price was not verified at publish time."
+        },
+        {
+          "question": "Which AI meeting recorders pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: Fireflies.ai pays up to 30% recurring for 12 months per sale with a 90-day cookie; MeetGeek pays 30% recurring (monthly commission per subscription)."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI meeting recorders hub",
+          "href": "/ai-meeting-recorders/"
+        },
+        {
+          "label": "MeetGeek alternatives",
+          "href": "/meetgeek-alternatives/"
+        },
+        {
+          "label": "Fireflies alternatives",
+          "href": "/fireflies-alternatives/"
+        },
+        {
+          "label": "Fireflies vs MeetGeek",
+          "href": "/fireflies-vs-meetgeek/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-phone-systems",
+      "title": "Best AI Phone Systems (2026): Data-Driven Comparison",
+      "h1": "Best AI Phone Systems in 2026",
+      "metaDescription": "A data-driven comparison of AI phone systems with verified 2026 pricing and affiliate commission data: KrispCall and CallHippo (checked 2026-08-08).",
+      "category": "AI phone systems",
+      "categorySlug": "ai-phone-systems",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI phone systems using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-08, plus each tool's stated plan structure. KrispCall is from $12/mo; CallHippo publishes a free plan with paid plans from $18/user/mo. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "krispcall",
+        "callhippo"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI phone system in 2026?",
+          "answer": "On verified 2026 data, KrispCall has the lowest entry price (from $12/mo) and the higher affiliate commission (30% recurring for life); CallHippo publishes a free plan with paid plans from $18/user/mo and pays 20% recurring forever (vendor-stated) with up to a 90-day cookie. Neither tool had a named-source rating verified at publish time, so the pick depends on budget, free-plan need and plan features."
+        },
+        {
+          "question": "How much do AI phone systems cost?",
+          "answer": "Verified 2026-08-08: KrispCall from $12/mo; CallHippo free plan with Starter $18/user/mo, Professional $30/user/mo and Ultimate $42/user/mo."
+        },
+        {
+          "question": "Which AI phone systems pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-08: KrispCall pays 30% recurring for life; CallHippo pays 20% recurring forever (vendor-stated) with up to a 90-day cookie."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI phone systems hub",
+          "href": "/ai-phone-systems/"
+        },
+        {
+          "label": "KrispCall alternatives",
+          "href": "/krispcall-alternatives/"
+        },
+        {
+          "label": "CallHippo alternatives",
+          "href": "/callhippo-alternatives/"
+        },
+        {
+          "label": "KrispCall vs CallHippo",
+          "href": "/krispcall-vs-callhippo/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
+      ],
+      "disclosure": true
+    },
+    {
+      "slug": "ai-content-generators",
+      "title": "Best AI Content Generators (2026): Data-Driven Comparison",
+      "h1": "Best AI Content Generators in 2026",
+      "metaDescription": "A data-driven comparison of AI content generators with verified 2026 pricing and affiliate commission data: Jasper, Writesonic, Scalenut and Rytr (checked 2026-08-08).",
+      "category": "AI content generators",
+      "categorySlug": "ai-content-generators",
+      "updatedAt": "2026-08-08",
+      "intro": "This page compares AI content generators using verified, dated data only: official pricing pages and affiliate pages fetched on 2026-08-07/08, plus each tool's stated plan structure. Jasper and Writesonic are dedicated AI writing assistants, Scalenut adds SEO content tooling, and Rytr is the budget option. We do not claim to have tested these tools; the comparison is based on price, plan, feature and commission data, not hands-on review.",
+      "itemSlugs": [
+        "jasper",
+        "writesonic",
+        "scalenut",
+        "rytr"
+      ],
+      "comparisonCriteria": [
+        "Starting price and billing options (official pricing pages, fetched 2026-08-08)",
+        "Affiliate commission rate and whether it recurs",
+        "Commission window and cookie duration (official affiliate pages)",
+        "Plan structure and stated features",
+        "Ratings from named sources only (G2 / Capterra / TAAFT - none verified at publish time)"
+      ],
+      "faqs": [
+        {
+          "question": "What is the best AI content generator in 2026?",
+          "answer": "On verified 2026 data, no single tool is best for everyone. Jasper (from $59/mo) and Writesonic (from $79/mo) are the two dedicated AI writing assistants in this dataset; Scalenut (from $59/mo) adds SEO content tooling; Rytr (from $7.50/mo annual) is the budget option. The right pick depends on your budget, workflow and plan needs; none had a named-source rating verified at publish time."
+        },
+        {
+          "question": "How much do AI content generators cost?",
+          "answer": "Verified: Jasper from $59/mo (annual billing, $69/mo monthly), Writesonic from $79/mo (Swipe Starter, annual billing), Scalenut from $59/mo (Starter, with a limited offer from $24/mo noted on the pricing page), Rytr from $7.50/mo (Unlimited, annual billing; free plan available)."
+        },
+        {
+          "question": "Which AI content generators pay recurring affiliate commissions?",
+          "answer": "Verified 2026-08-07/08: Jasper pays 25% recurring on Creator and Teams plans (Business excluded); Writesonic pays 20% recurring for 12 months; Scalenut pays 30-50% recurring for life; Rytr pays 30% recurring for 12 months with a 60-day cookie."
+        },
+        {
+          "question": "How are ratings sourced on this page?",
+          "answer": "Ratings are only shown when they come from a named source (G2, Capterra or TAAFT). No named-source rating was verified for any tool on this page at publish time, so ratings are marked 'not verified' rather than guessed."
+        }
+      ],
+      "relatedLinks": [
+        {
+          "label": "AI content generators hub",
+          "href": "/ai-content-generators/"
+        },
+        {
+          "label": "Jasper AI alternatives",
+          "href": "/jasper-ai-alternatives/"
+        },
+        {
+          "label": "Writesonic alternatives",
+          "href": "/writesonic-alternatives/"
+        },
+        {
+          "label": "Scalenut alternatives",
+          "href": "/scalenut-alternatives/"
+        },
+        {
+          "label": "Rytr alternatives",
+          "href": "/rytr-alternatives/"
+        },
+        {
+          "label": "Writesonic vs Jasper",
+          "href": "/writesonic-vs-jasper/"
+        },
+        {
+          "label": "Jasper vs Scalenut",
+          "href": "/jasper-vs-scalenut/"
+        },
+        {
+          "label": "Best AI tools index",
+          "href": "/best/ai-tools/"
+        }
       ],
       "disclosure": true
     }
