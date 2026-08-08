@@ -101,6 +101,11 @@ const index = `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http
 writeFileSync(join(outDir, 'sitemap-index.xml'), index);
 console.log('wrote sitemap-index.xml');
 
-const robots = `User-agent: *\nAllow: /\n\nSitemap: ${escapeXml(loc('/sitemap-index.xml'))}\n`;
+// Consolidated flat sitemap (all URLs in one file) — GSC-compatible canonical target.
+const allEntries = families.flatMap((f) => f.entries);
+writeFileSync(join(outDir, 'sitemap.xml'), sitemapXml(allEntries));
+console.log(`wrote sitemap.xml (${allEntries.length} URLs)`);
+
+const robots = `User-agent: *\nAllow: /\n\nSitemap: ${escapeXml(loc('/sitemap.xml'))}\n`;
 writeFileSync(join(outDir, 'robots.txt'), robots);
 console.log('wrote robots.txt');
